@@ -1,0 +1,2165 @@
+1. Sci Rep. 2024 Jan 6;14(1):706. doi: 10.1038/s41598-024-51363-6.
+
+Declining hip fracture burden in Sweden 1998-2019 and consequences for 
+projections through 2050.
+
+Michaëlsson K(1), Baron JA(2)(3)(4), Byberg L(2), Larsson SC(2)(5), Melhus H(6), 
+Gedeborg R(2).
+
+Author information:
+(1)Department of Surgical Sciences, Uppsala University, 751 85, Uppsala, Sweden. 
+karl.michaelsson@surgsci.uu.se.
+(2)Department of Surgical Sciences, Uppsala University, 751 85, Uppsala, Sweden.
+(3)Department of Medicine, University of North Carolina School of Medicine, 
+Chapel Hill, NC, USA.
+(4)Department of Epidemiology, Gillings School of Global Public Health, 
+University of North Carolina, Chapel Hill, NC, USA.
+(5)Unit of Cardiovascular and Nutritional Epidemiology, Institute of 
+Environmental Medicine, Karolinska Institutet, Stockholm, Sweden.
+(6)Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+
+We aimed to estimate the absolute and age-standardized number of hip fractures 
+in Sweden during the past two decades to produce time trends and future 
+projections. We used nationwide register data from 1998 to 2019 and a validated 
+algorithm to calculate the annual absolute and age-standardized number of 
+incident hip fractures over time. The total hip fracture burden was 335,399 
+incident events over the 22 years, with a change from 16,180 in 1998 to 13,929 
+in 2019, a 14% decrease. One decade after the index hip fracture event, 80% of 
+the patients had died, and 11% had a new hip fracture. After considering the 
+steady growth of the older population, the decline in the age-standardized 
+number of hip fractures from 1998 through 2019 was 29.2% (95% CI 28.1-30.2%) in 
+women and 29.3% (95% CI 27.5-30.7%) in men. With a continued similar reduction 
+in hip fracture incidence, we can predict that 14,800 hip fractures will occur 
+in 2034 and 12,000 in 2050 despite doubling the oldest old (≥ 80 years). Without 
+an algorithm, a naïve estimate of the total number of hip fractures over the 
+study period was 539,947, with a second 10-year hip fracture risk of 35%. We 
+note an ongoing decline in the absolute and age-standardized actual number of 
+hip fractures in Sweden, with consequences for future projections.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-51363-6
+PMID: 38184745
+
+
+2. Commun Biol. 2024 Jan 6;7(1):51. doi: 10.1038/s42003-023-05745-7.
+
+Carbapenem-resistant Escherichia coli exhibit diverse spatiotemporal 
+epidemiological characteristics across the globe.
+
+Huang J(#)(1), Lv C(#)(2), Li M(2), Rahman T(3), Chang YF(4), Guo X(2), Song 
+Z(1), Zhao Y(1), Li Q(5), Ni P(6), Zhu Y(7).
+
+Author information:
+(1)Department of Laboratory Medicine, College of Health Science and Technology, 
+Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 
+China.
+(2)Department of Animal Health and Food Safety, School of Global Health, Chinese 
+Center for Tropical Diseases Research, Shanghai Jiao Tong University School of 
+Medicine, Shanghai, China.
+(3)Department of Microbiology and Hygiene, Faculty of Veterinary Science, 
+Bangladesh Agricultural University, Mymensingh, Bangladesh.
+(4)Department of Population Medicine and Diagnostic Sciences, Cornell University 
+College of Veterinary Medicine, Ithaca, NY, USA.
+(5)Department of Laboratory Medicine, College of Health Science and Technology, 
+Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 
+China. qingtianli@sjtu.edu.cn.
+(6)Department of Laboratory Medicine, College of Health Science and Technology, 
+Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 
+China. nipeihua@126.com.
+(7)Department of Animal Health and Food Safety, School of Global Health, Chinese 
+Center for Tropical Diseases Research, Shanghai Jiao Tong University School of 
+Medicine, Shanghai, China. yzhzhu@sjtu.edu.cn.
+(#)Contributed equally
+
+Carbapenem-resistant Escherichia coli (CREC) poses a severe global public health 
+risk. This study reveals the worldwide geographic spreading patterns and 
+spatiotemporal distribution characteristics of resistance genes in 7918 CREC 
+isolates belonging to 497 sequence types (ST) and originating from 75 countries. 
+In the last decade, there has been a transition in the prevailing STs from 
+highly virulent ST131 and ST38 to higher antibiotic-resistant ST410 and ST167. 
+The rise of multi-drug resistant strains of CREC carrying plasmids with 
+extended-spectrum beta-lactamase (ESBL) resistance genes could be attributed to 
+three important instances of host-switching events. The spread of CREC was 
+associated with the changing trends in blaNDM-5, blaKPC-2, and blaOXA-48, as 
+well as the plasmids IncFI, IncFII, and IncI. There were intercontinental 
+geographic transfers of major CREC strains. Various crucial transmission hubs 
+and patterns have been identified for ST131 in the United Kingdom, Italy, the 
+United States, and China, ST167 in India, France, Egypt, and the United States, 
+and ST410 in Thailand, Israel, the United Kingdom, France, and the United 
+States. This work is valuable in managing CREC infections and preventing CREC 
+occurrence and transmission inside healthcare settings and among diverse hosts.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s42003-023-05745-7
+PMID: 38184739
+
+
+3. Sci Rep. 2024 Jan 6;14(1):721. doi: 10.1038/s41598-024-51251-z.
+
+Big data-driven spatio-temporal heterogeneity analysis of Beijing's catering 
+service industry during the COVID-19 pandemic.
+
+Jia H(1), Zheng M(2)(3), Wang P(1), Li T(1), Zheng X(1)(4)(5).
+
+Author information:
+(1)School of Information Engineering, China University of Geosciences, Beijing, 
+100083, China.
+(2)School of Public Administration and Policy, Renmin University of China, 
+Beijing, 100872, China. minruizheng@ruc.edu.cn.
+(3)Digital Government and National Governance Lab, Renmin University of China, 
+Beijing, 100872, China. minruizheng@ruc.edu.cn.
+(4)Technology Innovation Center for Territory Spatial Big-Data, MNR of China, 
+Beijing, 100036, China.
+(5)Beijing Fangshan Observation and Research Station of Comprehensive 
+Exploration Technology, Ministry of Natural Resources of People's Republic of 
+China, Beijing, 102400, China.
+
+The Catering Service Industry (CSI) experienced profound impacts due to the 
+COVID-19 pandemic. However, the long-term and multi-timepoint analysis using big 
+data remained limited, influencing governmental decision-making. We applied 
+Kernel Density Estimation, Shannon Diversity Index, and the Geographic detector 
+to explore the spatial heterogeneity and determinants of the CSI in Beijing 
+during the pandemic, with monthly granularity. The temporal-spatial dynamics of 
+the CSI presented a "W"-shaped trend from 2018 to 2023, with pivotal shifts 
+aligning with key pandemic stages. Spatial characteristics exhibited 
+heterogeneity, with greater stability in the city center and more pronounced 
+shifts in peripheral urban zones. Districts facing intricate outbreaks showed 
+lower catering income, and Chinese eateries exhibited heightened resilience 
+compared to others. The CSI displayed strong interconnections with living 
+service sectors. Development in each district was influenced by economic level, 
+population distribution, service facilities convenience, and the risk of the 
+COVID-19 pandemic. Dominant factors included total retail sales of consumer 
+goods, permanent population, average Baidu Heat Index, density of transportation 
+and catering service facilities, infection cases and the consecutive days with 
+confirmed cases existing. Consequently, we suggested seizing post-pandemic 
+recovery as an avenue to unlock the CSI's substantial potential, ushering a 
+fresh phase of growth.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-51251-z
+PMID: 38184685
+
+
+4. Crit Care. 2024 Jan 6;28(1):15. doi: 10.1186/s13054-023-04783-1.
+
+The effects of higher versus lower protein delivery in critically ill patients: 
+an updated systematic review and meta-analysis of randomized controlled trials 
+with trial sequential analysis.
+
+Lee ZY(#)(1)(2), Dresen E(#)(3), Lew CCH(#)(4), Bels J(5)(6), Hill A(7), Hasan 
+MS(8), Ke L(9), van Zanten A(10), van de Poll MCG(5)(6), Heyland DK(11), Stoppe 
+C(12)(3).
+
+Author information:
+(1)Department of Anaesthesiology, Faculty of Medicine, University of Malaya, 
+50603, Kuala Lumpur, Malaysia. zheng_yii@hotmail.com.
+(2)Department of Cardiac Anesthesiology and Intensive Care Medicine, Charité, 
+Berlin, Germany. zheng_yii@hotmail.com.
+(3)University Hospital Würzburg, Department of Anaesthesiology, Intensive Care, 
+Emergency and Pain Medicine, Würzburg, Germany.
+(4)Department of Dietetics and Nutrition, Ng Teng Fong General Hospital, 1 
+Jurong East Street 21, Singapore, 609606, Singapore.
+(5)Department of Intensive Care Medicine, Maastricht University Medical Centre, 
+Maastricht, 6229HX, The Netherlands.
+(6)NUTRIM School for Nutrition and Translational Research in Metabolism, 
+Maastricht University, Universiteitssingel 40, 6229 ER, Maastricht, The 
+Netherlands.
+(7)Department of Anesthesiology and Department Intensive Care Medicine, 
+University Hospital RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Germany.
+(8)Department of Anaesthesiology, Faculty of Medicine, University of Malaya, 
+50603, Kuala Lumpur, Malaysia.
+(9)Department of Critical Care Medicine, Jinling Hospital, Medical School of 
+Nanjing University, No. 305 Zhongshan East Road, Nanjing, 210000, Jiangsu 
+Province, China.
+(10)Department of Intensive Care Medicine, Gelderse Vallei Hospital, Ede & 
+Wageningen University & Research, Wageningen, The Netherlands.
+(11)Clinical Evaluation Research Unit, Department of Critical Care Medicine, 
+Queen's University, Kingston, ON, K7L 3N6, Canada.
+(12)Department of Cardiac Anesthesiology and Intensive Care Medicine, Charité, 
+Berlin, Germany.
+(#)Contributed equally
+
+BACKGROUND: A recent large multicentre trial found no difference in clinical 
+outcomes but identified a possibility of increased mortality rates in patients 
+with acute kidney injury (AKI) receiving higher protein. These alarming findings 
+highlighted the urgent need to conduct an updated systematic review and 
+meta-analysis to inform clinical practice.
+METHODS: From personal files, citation searching, and three databases searched 
+up to 29-5-2023, we included randomized controlled trials (RCTs) of adult 
+critically ill patients that compared higher vs lower protein delivery with 
+similar energy delivery between groups and reported clinical and/or 
+patient-centred outcomes. We conducted random-effect meta-analyses and 
+subsequently trial sequential analyses (TSA) to control for type-1 and type-2 
+errors. The main subgroup analysis investigated studies with and without 
+combined early physical rehabilitation intervention. A subgroup analysis of AKI 
+vs no/not known AKI was also conducted.
+RESULTS: Twenty-three RCTs (n = 3303) with protein delivery of 1.49 ± 0.48 vs 
+0.92 ± 0.30 g/kg/d were included. Higher protein delivery was not associated 
+with overall mortality (risk ratio [RR]: 0.99, 95% confidence interval [CI] 
+0.88-1.11; I2 = 0%; 21 studies; low certainty) and other clinical outcomes. In 2 
+small studies, higher protein combined with early physical rehabilitation showed 
+a trend towards improved self-reported quality-of-life physical function 
+measurements at day-90 (standardized mean difference 0.40, 95% CI - 0.04 to 
+0.84; I2 = 30%). In the AKI subgroup, higher protein delivery significantly 
+increased mortality (RR 1.42, 95% CI 1.11-1.82; I2 = 0%; 3 studies; confirmed by 
+TSA with high certainty, and the number needed to harm is 7). Higher protein 
+delivery also significantly increased serum urea (mean difference 2.31 mmol/L, 
+95% CI 1.64-2.97; I2 = 0%; 7 studies).
+CONCLUSION: Higher, compared with lower protein delivery, does not appear to 
+affect clinical outcomes in general critically ill patients but may increase 
+mortality rates in patients with AKI. Further investigation of the combined 
+early physical rehabilitation intervention in non-AKI patients is warranted.
+PROSPERO ID: CRD42023441059.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13054-023-04783-1
+PMID: 38184658
+
+
+5. J Med Case Rep. 2024 Jan 7;18(1):8. doi: 10.1186/s13256-023-04284-3.
+
+Intra-aortic balloon pump still has a role in late-onset myocardial infarction 
+complicated by ventricular septal rupture with intractable heart failure: a case 
+report.
+
+Alsagaff MY(1), Revianto O(2), Sembiring YE(2), Ilman MI(3), Intan RE(3).
+
+Author information:
+(1)Department of Cardiology and Vascular Medicine, Faculty of Medicine, 
+Universitas Airlangga-Dr. Soetomo General Academic Hospital, Surabaya, East 
+Java, 60286, Indonesia. yusuf_505@fk.unair.ac.id.
+(2)Department of Cardiovascular Thoracic Surgery, Faculty of Medicine, Airlangga 
+University-RSUD Dr. Soetomo General Hospital Surabaya, Surabaya, East Java, 
+60286, Indonesia.
+(3)Department of Cardiology and Vascular Medicine, Faculty of Medicine, 
+Universitas Airlangga-Dr. Soetomo General Academic Hospital, Surabaya, East 
+Java, 60286, Indonesia.
+
+BACKGROUND: The current guidelines have discouraged the routine use of 
+intra-aortic balloon pump (IABP) in cardiogenic shock complicating acute 
+coronary syndrome (ACS). Since then, the trend of IABP utilization in ACS has 
+been declining. Nevertheless, the guidelines still preserve the recommendation 
+of IABP use in hemodynamic instability or cardiogenic shock caused by post 
+myocardial infarction (MI) ventricular septal rupture (VSR).
+CASE PRESENTATION: A 46-years-old diabetic Southeast Asian female was referred 
+from a peripheral facility with intractable heart failure despite treatment with 
+vasoactive agents and diuretics for five days. The ECG suggested a recent 
+anteroseptal myocardial infarction with normal high-sensitivity troponin-I 
+value. The echocardiography detected a regional wall motion abnormality and a 
+10 mm wide ventricular septal defect. Invasive coronary angiography revealed a 
+severe two-vessel coronary artery disease. We planned a delayed surgical 
+strategy with preoperative optimization using IABP as a bridge to surgery. IABP 
+implantation followed by significant hemodynamic improvement and rapid 
+resolution of heart failure without any inotrope support. Afterwards, coronary 
+artery bypass grafting (CABG) and VSR surgical repair were performed. We safely 
+removed IABP on the third postoperative day with proper weaning and minimal 
+vasoactive support.
+CONCLUSION: We report a case where IABP still provided benefits for a patient 
+with intractable heart failure caused by undetermined onset MI complicated by 
+VSR. The use of IABP in such a case is in accordance with the recommendation of 
+the current guidelines. Several studies showed that IABP use during preoperative 
+optimization in the case of post-MI VSR was associated with survival benefits.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13256-023-04284-3
+PMID: 38184640
+
+
+6. J Orthop Surg Res. 2024 Jan 6;19(1):43. doi: 10.1186/s13018-023-04522-w.
+
+Effect of residual volume after surgery of the discoid lateral meniscus on 
+tibiofemoral joint biomechanics: a finite element analysis.
+
+Shen X(#)(1)(2), Lu M(#)(1), Liu M(2), Xie R(2), Gong S(2), Yang C(3), Sun G(4).
+
+Author information:
+(1)Department of Sports Medicine, Orthopaedic Hospital, The First Affiliated 
+Hospital, Jiangxi Medical College, Nanchang University, No. 17, Yongwai 
+Zhengjie, Donghu District, Nanchang City, Jiangxi Province, China.
+(2)Department of Osteoarthrosis, The First People's Hospital of Jiujiang, 
+Jiujiang City, Jiangxi Province, China.
+(3)Department of Medical Imaging, The First People's Hospital of Jiujiang, 
+Jiujiang City, Jiangxi Province, China.
+(4)Department of Sports Medicine, Orthopaedic Hospital, The First Affiliated 
+Hospital, Jiangxi Medical College, Nanchang University, No. 17, Yongwai 
+Zhengjie, Donghu District, Nanchang City, Jiangxi Province, China. 
+ndsfy0740@ncu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: The purpose of this study was to investigate the influence of 
+different residual meniscus volume on the biomechanics of tibiofemoral joint 
+after discoid lateral meniscus (DLM) surgery by finite element analysis.
+METHODS: A knee joint model was established based on CT and MRI imaging data. 
+The DLM model was divided into five regions according to conventional 
+meniscectomy, with volumes of 15%, 15%, 15%, 15%, 15%, and 40% for each region. 
+Additionally, the DLM model was divided into anterior and posterior parts to 
+obtain ten regions. The DLM was resected according to the design scheme, and 
+together with the intact discoid meniscus, a total of 15 models were obtained. 
+Finite element analysis was conducted to assess shear and pressure trends on the 
+knee joint.
+RESULTS: The study observed significant changes in peak shear stress and 
+compressive stress in the lateral meniscus and lateral femur cartilage. As the 
+meniscus volume decreased, there was an increase in these stresses. 
+Specifically, when the meniscus volume reduced to 40%, there was a sharp 
+increase in shear stress (302%) and compressive stress (152%) on the meniscus, 
+as well as shear stress (195%) and compressive stress (157%) on the lateral 
+femur cartilage. Furthermore, the model grouping results showed that preserving 
+a higher frontal volume in the meniscus model provided better biomechanical 
+advantages.
+CONCLUSION: The use of finite element analysis has demonstrated that preserving 
+more than 55% of the meniscus volume is necessary to prevent a significant 
+increase in joint stress, which can potentially lead to joint degeneration. 
+Additionally, it is crucial to preserve the front volume of the DLM in order to 
+achieve improved knee biomechanical outcomes.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13018-023-04522-w
+PMID: 38184619
+
+
+7. Cardiovasc Diabetol. 2024 Jan 6;23(1):9. doi: 10.1186/s12933-023-02106-w.
+
+Early left ventricular microvascular dysfunction in diabetic pigs: a 
+longitudinal quantitative myocardial perfusion CMR study.
+
+Jiang L(1), Yan WF(1), Zhang L(2), Xu HY(2), Guo YK(2), Li ZL(1), Liu KL(1), 
+Zeng LM(1), Li Y(1), Yang ZG(3).
+
+Author information:
+(1)Department of Radiology, West China Hospital, Sichuan University, 37# Guo Xue 
+Xiang, Chengdu, Sichuan, 610041, China.
+(2)Department of Radiology, Key Laboratory of Birth Defects and Related Diseases 
+of Women and Children of Ministry of Education, West China Second University 
+Hospital, Sichuan University, 20# South Renmin Road, Chengdu, Sichuan, 610041, 
+China.
+(3)Department of Radiology, West China Hospital, Sichuan University, 37# Guo Xue 
+Xiang, Chengdu, Sichuan, 610041, China. yangzg666@163.com.
+
+BACKGROUND: Microvascular pathology is one of the main characteristics of 
+diabetic cardiomyopathy; however, the early longitudinal course of diabetic 
+microvascular dysfunction remains uncertain. This study aimed to investigate the 
+early dynamic changes in left ventricular (LV) microvascular function in 
+diabetic pig model using the cardiac magnetic resonance (CMR)-derived 
+quantitative perfusion technique.
+METHODS: Twelve pigs with streptozotocin-induced diabetes mellitus (DM) were 
+included in this study, and longitudinal CMR scanning was performed before and 
+2, 6, 10, and 16 months after diabetic modeling. CMR-derived semiquantitative 
+parameters (upslope, maximal signal intensity, perfusion index, and myocardial 
+perfusion reserve index [MPRI]) and fully quantitative perfusion parameters 
+(myocardial blood flow [MBF] and myocardial perfusion reserve [MPR]) were 
+analyzed to evaluate longitudinal changes in LV myocardial microvascular 
+function. Pearson correlation was used to analyze the relationship between LV 
+structure and function and myocardial perfusion function.
+RESULTS: With the progression of DM duration, the upslope at rest showed a 
+gradually increasing trend (P = 0.029); however, the upslope at stress and MBF 
+did not change significantly (P > 0.05). Regarding perfusion reserve function, 
+both MPRI and MPR showed a decreasing trend with the progression of disease 
+duration (MPRI, P = 0.001; MPR, P = 0.042), with high consistency (r = 0.551, 
+P < 0.001). Furthermore, LV MPR is moderately associated with LV longitudinal 
+strain (r = - 0.353, P = 0.022), LV remodeling index (r = - 0.312, P = 0.033), 
+fasting blood glucose (r = - 0.313, P = 0.043), and HbA1c (r = - 0.309, 
+P = 0.046). Microscopically, pathological results showed that collagen volume 
+fraction increased gradually, whereas no significant decrease in microvascular 
+density was observed with the progression of DM duration.
+CONCLUSIONS: Myocardial microvascular reserve function decreased gradually in 
+the early stage of DM, which is related to both structural (but not reduced 
+microvascular density) and functional abnormalities of microvessels, and is 
+associated with increased blood glucose, reduced LV deformation, and myocardial 
+remodeling.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12933-023-02106-w
+PMID: 38184602
+
+
+8. BMC Complement Med Ther. 2024 Jan 6;24(1):23. doi: 10.1186/s12906-023-04327-8.
+
+Trends in the use of complementary and alternative medicine between 1987 and 
+2021 in Denmark.
+
+Møller SR(1), Ekholm O(2), Christensen AI(2).
+
+Author information:
+(1)National Institute of Public Health, University of Southern Denmark, 
+Studiestraede 6, Copenhagen K, 1455, Denmark. soro@sdu.dk.
+(2)National Institute of Public Health, University of Southern Denmark, 
+Studiestraede 6, Copenhagen K, 1455, Denmark.
+
+BACKGROUND: Complementary and alternative medicine (CAM) has been widely and 
+increasingly used worldwide during the past decades. Nevertheless, studies in 
+long-term trends of CAM use are limited. The aim of this study was to assess 
+long-term trends in the prevalence of CAM use (both overall and for specific 
+CAMs) between 1987 and 2021 in the adult Danish population and to examine 
+certain sociodemographic characteristics of CAM users.
+METHODS: Data derived from nationally representative health surveys in the 
+general adult population (≥ 16 years) in Denmark (the Danish Health and 
+Morbidity Surveys) conducted in 1987, 1994, 2000, 2005, 2010, 2013, 2017, and 
+2021. The response proportion declined from 79.9% in 1987 to 45.4% in 2021. CAM 
+use was assessed by questions on ever use of specific types of CAMs and overall 
+use within the past 12 months. Differences in use of CAMs across educational 
+levels were assessed using the Slope Index of Inequality (SII).
+RESULTS: An overall increase in the prevalence of CAM use within the past 12 
+months was found between 1987 (10.0%) and 2021 (24.0%). However, a stagnation 
+was observed between 2010 and 2017, after which the prevalence decreased in 
+2021. In all survey waves, the prevalence was higher among women than men. For 
+both sexes, the prevalence tended to be highest among respondents aged 25-44 
+years and 45-64 years. The group with 13-14 years of education had the highest 
+prevalence of CAM use compared to the other educational groups (< 10 years, 
+10-12 years, and ≥ 15 years). SII values for both men and women increased 
+between 1987 and 2021, which indicates an increase in differences of CAM use 
+across educational groups. In all survey waves the most frequently used CAMs 
+included massage and other manipulative therapies, acupuncture, and reflexology.
+CONCLUSIONS: The use of CAM has increased markedly within the last decades and 
+recently stagnated at high levels, which underlines the importance of securing 
+high quality information and education for the public, health professionals, and 
+legislators to ensure and promote safe use of CAMs.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12906-023-04327-8
+PMID: 38184579
+
+
+9. Lipids Health Dis. 2024 Jan 6;23(1):3. doi: 10.1186/s12944-023-01997-8.
+
+Dyslipidemia: prevalence and association with precancerous and cancerous lesions 
+of the cervix; a pilot study.
+
+Mwangi GF(1), Niyonzima N(2), Atwine R(3), Tusubira D(4), Mugyenyi GR(5), 
+Ssedyabane F(6).
+
+Author information:
+(1)Department of Medical Laboratory Science, Mbarara University of Science and 
+Technology (MUST), P.O. Box 1410, Mbarara, Uganda. fridahgakii99@yahoo.com.
+(2)Uganda Cancer Institute (UCI), P.O. Box 3935, Kampala, Uganda.
+(3)Department of Pathology, Mbarara University of Science and Technology (MUST), 
+P.O. Box 1410, Mbarara, Uganda.
+(4)Department of Biochemistry, Mbarara University of Science and Technology 
+(MUST), P.O. Box 1410, Mbarara, Uganda.
+(5)Department of Obstetrics and Gynecology, Mbarara University of Science and 
+Technology (MUST), P.O. Box 1410, Mbarara, Uganda.
+(6)Department of Medical Laboratory Science, Mbarara University of Science and 
+Technology (MUST), P.O. Box 1410, Mbarara, Uganda.
+
+BACKGROUND: In Sub-Saharan Africa, the prevalence of dyslipidemia is on the 
+rise, with studies showing dyslipidemia as a contributing factor to the 
+progression of premalignant lesions to cervical cancer. In Uganda, cervical 
+cancer and dyslipidemia are common health concerns, considering the increasing 
+trends of dyslipidemia in the general population and inadequate information 
+regarding dyslipidemia and cervical lesions. This study aimed to determine the 
+prevalence of dyslipidemia and its association with precancerous and cancerous 
+lesions of the cervix among women attending a cervical cancer clinic at the 
+Uganda Cancer Institute.
+METHODS: This cross-sectional study was conducted from February to April 2022 
+among women with premalignant and malignant lesions of the cervix. Data on 
+social demographics and health-seeking behaviours were collected using a 
+pretested structured questionnaire after written informed consent had been 
+obtained. Pap smear collection preceded visual inspection with acetic acid; 
+cervical biopsies were collected appropriately from eligible participants; and 
+cervical lesions were classified using the Bethesda system 2014. Serum lipids, 
+total cholesterol (T.C.), high-density lipoprotein (HDLc), low-density 
+lipoprotein (LDLc), and triglycerides (T.G.s) were analysed using the COBAS™ 
+6000 Clinical Chemistry Analyser. The associations were assessed using the 
+chi-square test, and P ≤ 0.05 was considered statistically significant.
+RESULTS: The overall prevalence of dyslipidemia among women with cervical 
+lesions was 118/159 (74%), and low HDLc was the most prevalent at 64.6% (95% CI 
+39.0-54.3). High T.C. (P = 0.05), high T.G.s (P = 0.011), and low HDL-c 
+(P = 0.05) showed a significant association with precancerous lesions. High 
+LDL-c (P = 0.019), high T.G.s (P = 0.02), and high T.G.s (P < 0.001) showed a 
+statistically significant association with cancerous lesions.
+CONCLUSION: The prevalence of dyslipidemia was high, with high TC, T.G.s, and 
+low HDL-c significantly associated with precancerous lesions. Also, elevated 
+T.G.s and high LDLc were significantly associated with cancerous lesions. Women 
+may benefit from dyslipidemia screening along with cervical cancer screening.
+WHAT THIS STUDY ADDS: The present study builds upon previous findings suggesting 
+a link between dyslipidemia and cervical lesions by investigating the 
+relationship between these two factors, specifically in women of this 
+geographical location, where we need adequate information on these associations.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12944-023-01997-8
+PMID: 38184564
+
+
+10. BMC Public Health. 2024 Jan 7;24(1):112. doi: 10.1186/s12889-023-17563-x.
+
+Polysubstance mortality trends in White and Black Americans during the opioid 
+epidemic, 1999-2018.
+
+Rawy M(1), Abdalla G(2), Look K(3).
+
+Author information:
+(1)University of Wisconsin-Madison, Madison, USA. rawy@wisc.edu.
+(2)Claude Bernard University Lyon 1, Lyon, France.
+(3)University of Wisconsin-Madison, Madison, USA.
+
+BACKGROUND: Psychoactive drug combinations are increasingly contributing to 
+overdose deaths among White and Black Americans. To understand the evolving 
+nature of overdose crisis, inform policies, and develop tailored and equitable 
+interventions, this study provides a comprehensive assessment of polysubstance 
+mortality trends by race and sex during the opioid epidemic.
+METHODS: We used serial cross-sectional US mortality data for White and Black 
+populations from 1999 through 2018 to calculate annual age-adjusted death rates 
+(AADR) involving any opioid, opioid subtypes, benzodiazepines, cocaine, 
+psychostimulants, or combinations of these drugs, stratified by race and sex. 
+Trend changes in AADR were analyzed using joinpoint regression models and 
+expressed as average annual percent change (AAPC) during each period of the 
+three waves of the opioid epidemic: 1999-2010 (wave 1), 2010-2013 (wave 2), and 
+2013-2018 (wave 3). Prevalence measures assessed the percent co-involvement of 
+an investigated drug in the overall death from another drug.
+RESULTS: Polysubstance mortality has shifted from a modest rise in death rates 
+due to benzodiazepine-opioid overdoses among White persons (wave 1) to a 
+substantial increase in death rates due to illicit drug combinations impacting 
+both White and Black populations (wave 3). Concurrent cocaine-opioid use had the 
+highest polysubstance mortality rates in 2018 among Black (5.28 per 100,000) and 
+White (3.53 per 100,000) persons. The steepest increase in death rates during 
+wave 3 was observed across all psychoactive drugs when combined with synthetic 
+opioids in both racial groups. Since 2013, Black persons have died faster from 
+cocaine-opioid and psychostimulant-opioid overdoses. Between 2013 and 2018, 
+opioids were highly prevalent in cocaine-related deaths, increasing by 33% in 
+White persons compared to 135% in Blacks. By 2018, opioids contributed to 
+approximately half of psychostimulant and 85% of benzodiazepine fatal overdoses 
+in both groups. The magnitude and type of drug combinations with the highest 
+death rates differed by race and sex, with Black men exhibiting the highest 
+overdose burden beginning in 2013.
+CONCLUSIONS: The current drug crisis should be considered in the context of 
+polysubstance use. Effective measures and policies are needed to curb synthetic 
+opioid-involved deaths and address disparate mortality rates in Black 
+communities.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12889-023-17563-x
+PMID: 38184563
+
+
+11. BMC Public Health. 2024 Jan 6;24(1):107. doi: 10.1186/s12889-023-17405-w.
+
+The global, regional, and national disease burden of breast cancer attributable 
+to tobacco from 1990 to 2019: a global burden of disease study.
+
+Guo Q(#)(1), Lu Y(#)(2), Liu W(#)(3), Lan G(4), Lan T(5).
+
+Author information:
+(1)Department of Medical Oncology, Affiliated Jinhua Hospital, Zhejiang 
+University School of Medicine, Jinhua, Zhejiang, People's Republic of China.
+(2)Department of Cardiology, The First People's Hospital of Xiaoshan District, 
+Xiaoshan Affiliated Hospital of Wenzhou Medical University, Hangzhou, Zhejiang, 
+People's Republic of China.
+(3)Department of Oncology, The People's Hospital of Jiangshan, Quzhou, Zhejiang, 
+People's Republic of China.
+(4)Department of Oncology, The Second Affiliated Hospital of Fujian Medical 
+University, Quanzhou, Fujian, People's Republic of China. fydfey888@fjmu.edu.cn.
+(5)Department of Breast Surgery, Hangzhou TCM Hospital Affiliated to Zhejiang 
+Chinese Medical University, Hangzhou Hospital of Traditional Chinese Medicine, 
+Hangzhou, Zhejiang, People's Republic of China. lan_tian_lt@163.com.
+(#)Contributed equally
+
+OBJECTIVE: Tobacco has been identified as a significant contributory element to 
+the development of breast cancer. Our objective was to evaluate the 
+spatiotemporal trends of tobacco-related breast cancer at the global, regional, 
+and national scales during 1990-2019.
+METHODS: We extracted data on mortality, disability adjusted of life years 
+(DALYs), age-standardized mortality rate (ASMR), and age-standardized DALYs rate 
+(ASDR) from the Global Burden of Disease (GBD) study 2019. Estimated annual 
+percentage change (EAPC) was computed to assess the temporal change in ASDR and 
+ASMR.
+RESULTS: In 2019, the deaths and DALYs attributed to tobacco-related breast 
+cancer were estimated to be 35,439 (95% UI: 22,179-48,119) and 1,060,590 (95% 
+UI: 622,550-1,462,580), respectively. These figures accounted for 5.1% and 5.2% 
+of the total burden of breast cancer. ASMR and ASDR increased in low SDI 
+regions, remained stable in low-middle and middle SDI regions and declined in 
+high and high-middle SDI regions. The burden of breast cancer attributable to 
+tobacco varied notably among regions and nations. Oceania, Southern Latin 
+America, and Central Europe were the GBD regions with the highest number of ASMR 
+and DALYs. There was a positive relationship between age-standardized rate and 
+SDI value in 2019 across 204 nations or territories. A negative association was 
+observed between the EAPC in ASMR or ASDR and the human development index (HDI) 
+in 2019 (R = -0.55, p < 0.01 for ASMR; R = -0.56, p < 0.01 for ASDR).
+CONCLUSION: Tobacco is one important and modifiable risk factor for breast 
+cancer. The heterogeneity in both the spatial and temporal distribution can be 
+attributed to factors such as aging, population growth, and SDI. These findings 
+substantiate the necessity of expediting the enforcement of tobacco-free 
+legislation in order to safeguard populations from the detrimental effects of 
+tobacco.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12889-023-17405-w
+PMID: 38184557
+
+
+12. BMC Public Health. 2024 Jan 6;24(1):109. doi: 10.1186/s12889-023-17607-2.
+
+The association between interest of nutritional supplements and COVID-19 
+pandemic - evidence from Google Trends.
+
+Lin LY(1), Husnayain A(2), Chen YT(3)(4), Kuo CY(5).
+
+Author information:
+(1)Department of Leisure Industry and Health Promotion, National Taipei 
+University of Nursing and Health Sciences, Taipei, 112, Taiwan.
+(2)Department of Public Health, Monash University, Banten, 15345, Indonesia.
+(3)Smart Healthcare Interdisciplinary College, National Taipei University of 
+Nursing and Health Sciences, Taipei, 112, Taiwan.
+(4)Department of Education and Research, Taipei City Hospital, Taipei, 103, 
+Taiwan.
+(5)Smart Healthcare Interdisciplinary College, National Taipei University of 
+Nursing and Health Sciences, Taipei, 112, Taiwan. chaoyang@ntunhs.edu.tw.
+
+BACKGROUND: Due to the spread of the coronavirus disease 2019 (COVID-19) 
+pandemic in 2020, the interest of nutritional supplements has emerged. Limited 
+data are available on how the COVID-19 pandemic affects the search interest in 
+nutritional supplements in Taiwan and worldwide. The study aims to investigate 
+changes in public search interest of nutritional supplements pre- and during the 
+COVID-19 pandemic.
+METHODS: Our World in Data dataset was used to collect both global and local 
+(Taiwan) number of COVID-19 newly confirmed cases and deaths. Google Trends 
+search query was being used to obtain relative search volumes (RSVs) covering a 
+timeframe between 2019 to 2022. Spearman's rank-order correlation coefficients 
+were used to measure relationships between confirmed new cases and deaths and 
+RSVs of nutritional supplements. Multivariate analysis was conducted to examine 
+the effect of domestic and global new cases and deaths on the RSVs of 
+nutritional supplements.
+RESULTS: The mean RSVs for nutritional supplements were higher during the 
+COVID-19 pandemic period (between 2020 to 2022) compared to the pre-pandemic 
+period (year of 2019) for both Taiwan and worldwide. In terms of seasonal 
+variations, except for vitamin D, the mean RSVs of probiotics, vitamin B 
+complex, and vitamin C in winter were significantly lower compared to other 
+seasons in Taiwan. The RSVs of nutritional supplements were not only affected by 
+domestic cases and deaths but also by global new cases and deaths.
+CONCLUSIONS: The interests in nutritional supplements had substantially 
+increased in response to the COVID-19 pandemic. The RSVs of nutritional 
+supplements in Taiwan were not only influenced by global and domestic pandemic 
+severity but also by seasons.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12889-023-17607-2
+PMID: 38184540
+
+
+13. BMC Prim Care. 2024 Jan 6;25(1):14. doi: 10.1186/s12875-023-02255-7.
+
+Core values of employed general practitioners in Germany - a qualitative study.
+
+Horn L(1), Ullrich C(1), Boelter L(1), Wensing M(1), Peters-Klimm F(1), Stengel 
+S(2).
+
+Author information:
+(1)Department of general practice and health services research, University 
+Hospital Heidelberg, Heidelberg University, Heidelberg, Germany.
+(2)Department of general practice and health services research, University 
+Hospital Heidelberg, Heidelberg University, Heidelberg, Germany. 
+sandra.stengel@med.uni-heidelberg.de.
+
+BACKGROUND: "Core values" help to guide practice of health care delivery. The 
+core values of general practice are described in the European definition of 
+general practice by WONCA, e.g. a holistic, comprehensive and continuous care. 
+They may be associated with the idea that the general practitioner is the owner 
+of the practice rather than an employee.
+OBJECTIVES: The objective was to examine the core values of employed GPs in 
+their professional setting and their practical manifestation.
+METHODS: From April to May 2021, we conducted 17 semi-structured 
+telephone-interviews with employed GPs in two districts in Baden-Wuerttemberg, 
+Germany. The data were analysed using qualitative content analysis.
+RESULTS: We identified twelve core values, including values relevant to patient 
+care and values relevant to the lives of employed GPs. Values with high 
+relevance were job satisfaction, the professional distance from patients, 
+collaboration and collegial exchange, comprehensive care, adequate consultation 
+time and availability to patients. Values with heterogeneous relevance were 
+continuity of care, waiting times and medical autonomy. The value "availability" 
+of employed GPs to patients was associated with both patient care and personal 
+life. The limited availability of employed GPs was accompanied by tensions 
+between these two trends and other values.
+CONCLUSION: The values of employed GPs are partly consistent with the current 
+WONCA definition of general practice. There were also indications of new values. 
+The increase in the proportion of employed GPs implies a need to reflect on the 
+core values of general practice, taking into account factors on the part of 
+employed GPs, patients, and practice organisation.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12875-023-02255-7
+PMID: 38184532
+
+
+14. Trends Biochem Sci. 2024 Jan 6:S0968-0004(23)00298-0. doi: 
+10.1016/j.tibs.2023.12.003. Online ahead of print.
+
+Guidelines for organizing accessible and inclusive research retreats.
+
+Fuller MJ(1), Mix MR(2), Voigt E(3), Hoffmann DS(4), Geyer PK(5).
+
+Author information:
+(1)Medical Scientist Training Program, Carver College of Medicine, University of 
+Iowa, Iowa City, IA 52242, USA; Department of Molecular Physiology and 
+Biophysics, Carver College of Medicine, University of Iowa, Iowa City, IA 52242, 
+USA.
+(2)Medical Scientist Training Program, Carver College of Medicine, University of 
+Iowa, Iowa City, IA 52242, USA; Immunology Graduate Training Program, Carver 
+College of Medicine, University of Iowa, Iowa City, IA 52242, USA.
+(3)Medical Scientist Training Program, Carver College of Medicine, University of 
+Iowa, Iowa City, IA 52242, USA; Cancer Biology Graduate Training Program, Carver 
+College of Medicine, University of Iowa, Iowa City, IA 52242, USA.
+(4)Medical Scientist Training Program, Carver College of Medicine, University of 
+Iowa, Iowa City, IA 52242, USA; Department of Anatomy and Cell Biology, Carver 
+College of Medicine, University of Iowa, Iowa City, IA 52242, USA.
+(5)Medical Scientist Training Program, Carver College of Medicine, University of 
+Iowa, Iowa City, IA 52242, USA; Department of Biochemistry and Molecular 
+Biology, Carver College of Medicine, University of Iowa, Iowa City, IA 52242, 
+USA. Electronic address: pamela-geyer@uiowa.edu.
+
+Research retreats are elements of scientific graduate training programs. 
+Although expected to provide strong educational value, some students are 
+reluctant to attend. Here, we identify participation barriers and provide 
+guidelines for retreat design that minimize obstacles and establish an inclusive 
+environment to improve attendance and enrichment for all attendees.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tibs.2023.12.003
+PMID: 38184399
+
+
+15. BMJ Open. 2024 Jan 6;14(1):e076936. doi: 10.1136/bmjopen-2023-076936.
+
+Trends in COPD mortality from 1983 to 2018: protocol for a population-based 
+cohort study in Denmark.
+
+Sikjær MG(1)(2), Hilberg O(3)(2), Ibsen R(4), Løkke A(3)(2).
+
+Author information:
+(1)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark melina.gade.sikjaer@rsyd.dk.
+(2)Department of Respiratory Medicine, Vejle Sygehus, Vejle, Denmark.
+(3)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark.
+(4)I2minds, Aarhus, Denmark.
+
+INTRODUCTION: Chronic obstructive pulmonary disease (COPD) is one of the leading 
+causes of death worldwide, which is partly contributed to the increasing 
+prevalence of COPD owning to a demographic shift towards an older population. 
+Conversely, recent studies on COPD mortality that take this demographic shift in 
+age into account find decreasing overall age-standardised COPD mortality rates 
+over time. This decrease in the age-standardised COPD mortality rate is 
+contributed advances in COPD diagnostics and treatment, decreasing smoking 
+prevalence and general advances in medical care particularly in western 
+countries. However, it is unknown if patients with COPD have experienced a 
+comparable relative increase in survival in line with the general 
+population.Hence, there is a need for longitudinal studies comparing trends in 
+mortality in patients with COPD compared with matched non-COPD individuals from 
+the background population.
+METHODS AND ANALYSES: This is a cohort study with a matched non-COPD comparator 
+cohort. Data are retrieved from the Danish national registers. Data from 
+multiple registries from 1983 to 2018 will be merged on an individual level 
+using the 10-digit Civil Registration numbers that are unique to each citizen in 
+Denmark. Time trends in mortality in patients with COPD compared with the 
+matched comparator cohort will be examined in three study periods: 1983-1993, 
+1994-2007 and 2008-2018.
+ETHICS AND DISSEMINATION: The study is entirely based on registry data and 
+ethical approval is not required according to Danish Law and National Ethics 
+Committee Guidelines. The results will be published in peer-reviewed journals 
+and reported at appropriate national and international conferences.
+
+© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2023-076936
+PMID: 38184314
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+16. BMJ Paediatr Open. 2024 Jan 6;8(1):e002267. doi: 10.1136/bmjpo-2023-002267.
+
+Global, regional and national burden of retinopathy of prematurity among 
+childhood and adolescent: a spatiotemporal analysis based on the Global Burden 
+of Disease Study 2019.
+
+Wang S(#)(1), Liu J(#)(1), Zhang X(#)(2), Liu Y(3), Li J(3), Wang H(4), Luo 
+X(5), Liu S(5), Liu L(6), Zhang J(7).
+
+Author information:
+(1)Department of Ophthalmology, Changzhi People's Hospital, The Affiliated 
+Hospital of Changzhi Medical College, Changzhi, Shanxi, China.
+(2)Department of Retina, Baotou Chaoju Eye Hospital, Boatou, China.
+(3)Graduate school, China Medical University, Shenyang, China.
+(4)ZaoZhuang Vocational College of Science and Technology, Zaozhuang, China.
+(5)Department of Ophthalmology, Guangdong Eye Institute, Guangdong Provincial 
+People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical 
+University, Guangzhou, China.
+(6)Department of Ophthalmology, Guangdong Eye Institute, Guangdong Provincial 
+People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical 
+University, Guangzhou, China liulei@gdph.org.cn 50307466@qq.com.
+(7)Department of Ophthalmology, National key clinical specialty, Weifang Eye 
+Hospital; Weifang Institute of Ophthalmology; Zhengda Guangming Ophthalmology 
+Group, Weifang, People's Republic of China liulei@gdph.org.cn 50307466@qq.com.
+(#)Contributed equally
+
+BACKGROUND: This study aimed to provide a comprehensive assessment of burden 
+estimates and the secular trend of vision loss due to retinopathy of prematurity 
+(ROP) among people younger than 20 years, at the global, regional and national 
+levels.
+METHODS: Data were obtained from the Global Burden of Disease Study 2019 
+database. The average annual percentage change (AAPC) was calculated to quantify 
+the temporal trends in the measures of vision loss.
+RESULTS: In 2019, the global age-standardised rates (ASRs) of prevalence per 
+100 000 population was 86.4 for vision loss, specifically, 35 for moderate 
+vision loss, 19.9 for severe vision loss, 31.6 for blindness due to ROP among 
+people younger than 20 years. Moreover, the ASR of years lived with disability 
+per 100 000 was 10.6 for vision loss, specifically, 1.1 for moderate vision 
+loss, 3.6 for severe vision loss, 5.9 for blindness, respectively. From 1990 to 
+2019, the ASR of prevalence of blindness and vision loss due to ROP 
+significantly increased, while its burden slightly decreased. Males showed 
+higher ASR of prevalence than females in 2019, whereas females have larger 
+increasing trend than males from 1990 to 2019. The global highest ASR of disease 
+burden was observed in South Asia and Southern sub-Saharan Africa, as well as 
+low sociodemographic index (SDI) regions in 2019.
+CONCLUSIONS: Globally, although the burden decreased, the prevalence of 
+childhood and adulthood vision loss due to ROP continues to increase. Reasonable 
+resource allocation and advanced intervention are recommended to prevent and 
+control the vision loss due to ROP.
+
+© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjpo-2023-002267
+PMID: 38184302
+
+Conflict of interest statement: Competing interests: None.
+
+
+17. Trends Psychiatry Psychother. 2024 Jan 6. doi: 10.47626/2237-6089-2023-0701. 
+Online ahead of print.
+
+Incidence of Suicidal Ideation in a Civil Servants Cohort During the COVID-19 
+Pandemic in Brazil: Insights from the ELSA-Brasil Study.
+
+Bacchi P(1), Suen P(2), Fatori D(3), Razza LB(4), Afonso L(1), Klein I(1), 
+Cavendish B(1), Moreno ML(5), Santos IS(5), Benseñor I(5), Lotufo P(5), Brunoni 
+AR(6).
+
+Author information:
+(1)Departamento e Instituto de Psiquiatria & Laboratory of Neurosciences 
+(LIM-27), Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.
+(2)Departamento e Instituto de Psiquiatria & Laboratory of Neurosciences 
+(LIM-27), Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil. 
+Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.
+(3)Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.
+(4)Departamento e Instituto de Psiquiatria & Laboratory of Neurosciences 
+(LIM-27), Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil. 
+Departamento de Clínica Médica, Faculdade de Medicina da Universidade de São 
+Paulo, São Paulo, Brazil.
+(5)Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil. Centro 
+de Pesquisas Clínicas e Epidemiológicas, Hospital Universitário, Universidade de 
+São Paulo, São Paulo, Brazil. Departamento de Clínica Médica, Faculdade de 
+Medicina da Universidade de São Paulo, São Paulo, Brazil.
+(6)Departamento e Instituto de Psiquiatria & Laboratory of Neurosciences 
+(LIM-27), Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil. 
+Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil. Centro de 
+Pesquisas Clínicas e Epidemiológicas, Hospital Universitário, Universidade de 
+São Paulo, São Paulo, Brazil. Departamento de Clínica Médica, Faculdade de 
+Medicina da Universidade de São Paulo, São Paulo, Brazil.
+
+OBJECTIVE: This study investigated the incidence of suicidal ideation and its 
+associated risk factors in the São Paulo state of ELSA-Brasil cohort during the 
+COVID-19 pandemic.
+METHODS: During a pre-pandemic ELSA-Brasil onsite assessment in 2016-2018 (wave 
+3) and a pandemic online assessment in May-July 2020 (wave COVID), we assessed 
+suicidal ideation using the Clinical Interview Scheduled-Revised (CIS-R). Single 
+and multi predictor logistic regressions were performed using sociodemographic 
+characteristics, household finance impact during pandemic, presence of previous 
+chronic diseases, alcohol abuse, adverse childhood experiences (ACE), living 
+alone, and previous CMD as predictors. Suicidal ideation incidence was used as 
+outcome.
+RESULTS: Out of 4191 participants of wave 3, 2117 (50.5%) answered wave COVID. 
+There was a threefold increase in suicide ideation, from 34 (1.8%) to 104 
+(5.6%).In multiple predictor models, we found that previous CMD (OR 7.17; 95% CI 
+4.43 - 11.58) and ACE (OR 1.72; 95% CI 1.09 - 2.72) increased the odds of 
+incident suicidal ideation. The sociodemographic predictors female sex, younger 
+age and low income were significant risk factors only in the single predictor 
+model. Conclusions These findings underscore the importance of monitoring and 
+supporting individuals who suffered ACE and have a history of mental health 
+disorders. This is especially critical in times of heightened societal stress, 
+such as the COVID-19 pandemic.
+CONCLUSIONS: These findings underscore the importance of monitoring and 
+supporting individuals who suffered ACE and have a history of mental health 
+disorders. This is especially critical in times of heightened societal stress, 
+such as the COVID-19 pandemic.
+
+DOI: 10.47626/2237-6089-2023-0701
+PMID: 38183668
+
+Conflict of interest statement: No conflicts of interest declared concerning the 
+publication of this article.
+
+
+18. Asian Pac J Allergy Immunol. 2024 Jan 6. doi: 10.12932/AP-080623-1627. Online
+ ahead of print.
+
+Factor associated with food allergy among preschool children with atopic 
+dermatitis, and resolution of atopic dermatitis.
+
+Tangvalelerd S(1), Kanchanapoomi K(1), Kulalert P(2), Pacharn P(1), 
+Jirapongsananuruk O(1), Visitsunthorn N(1), Nitiyarom R(3), Wisuthsarewong W(3), 
+Srisuwatchari W(1).
+
+Author information:
+(1)Division of Allergy and Clinical Immunology, Department of Pediatrics, 
+Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+(2)Department of Clinical Epidemiology, Faculty of Medicine, Thammasat 
+University, Pathum Thani, Thailand.
+(3)Division of Dermatology, Department of Pediatrics, Faculty of Medicine 
+Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+
+BACKGROUND: Food allergy (FA) has been reported in one-third of children with 
+moderate-to-severe atopic dermatitis (AD).
+OBJECTIVE: To identify factor associated with food allergy among preschool 
+children with AD, and to compare AD resolution between preschool children with 
+and without FA.
+METHODS: A cross-sectional study using database registry and questionnaire 
+interview was conducted at Siriraj Hospital(Bangkok, Thailand) during 2022, and 
+physician-diagnosed AD children aged ≤ 6 years were enrolled.
+RESULTS: A total of 110 children (60.9% male, median age: 2.3 years) were 
+included. Of those, 53 and 57 children had AD with and without FA, respectively. 
+Very early-onset AD (≤ 3 months) and moderate-to-severe AD at onset were 
+reported in 43.9% and 26.3% of AD without FA, and in 35.8% and 45.3% of AD with 
+FA, respectively. The most commonly reported FAs were hen's egg, cow's milk, and 
+wheat. Moderate-to-severe AD at onset was found significant associated with FA 
+(aOR: 2.50; p = 0.037). Thirty-one (28.2%) patients experienced completed 
+resolution of AD by 5 years of age. Of those, 19 had AD without FA, and 12 had 
+AD with FA (p = 0.213). The median age at AD resolution was 18 months and 22.5 
+months in the without and with FA groups, respectively. AD with FA showed a 
+strong trend toward a significantly longer duration to achieving AD resolution 
+after adjusting for onset and severity of AD (aHR: 0.46, p = 0.050).
+CONCLUSION: Preschool AD children with FA were found to have significantly 
+greater AD severity at AD onset and a longer duration to AD resolution compared 
+to AD children without FA.
+
+DOI: 10.12932/AP-080623-1627
+PMID: 38183650
+
+
+19. Geroscience. 2024 Jan 6. doi: 10.1007/s11357-023-01034-7. Online ahead of
+print.
+
+Neutrophil, lymphocyte count, and neutrophil to lymphocyte ratio predict 
+multimorbidity and mortality-results from the Baltimore Longitudinal Study on 
+Aging follow-up study.
+
+Pellegrino R(#)(1)(2), Paganelli R(#)(3), Di Iorio A(4), Bandinelli S(5), 
+Moretti A(6), Iolascon G(6), Sparvieri E(7), Tarantino D(8), Tanaka T(9), 
+Ferrucci L(9).
+
+Author information:
+(1)Department of Scientific Research, Off-Campus Semmelweis University, Campus 
+Ludes, 6912, Lugano-Pazzallo, Switzerland.
+(2)Santa Chiara Institute, 73100, Lecce, Italy.
+(3)Saint Camillus International, University of Health and Medical Sciences, 
+Rome, Italy.
+(4)Department of Innovative Technologies in Medicine & Dentistry, University "G. 
+d'Annunzio", 66100, Chieti-Pescara, Italy. angelo.diiorio@unich.it.
+(5)Geriatric Unit, Azienda Toscana Centro, Florence, Italy.
+(6)Department of Medical and Surgical Specialties and Dentistry, University of 
+Campania "Luigi Vanvitelli", 80138, Naples, Italy.
+(7)Department of Internal Medicine, ASL Teramo, Teramo, Italy.
+(8)Department of Public Health, University of Naples Federico II, 80131, Naples, 
+Italy.
+(9)Longitudinal Studies Section, Translational Gerontology Branch, National 
+Institute On Aging, National Institutes of Health, Baltimore, MD, 21224, USA.
+(#)Contributed equally
+
+Immunosenescence is the age-related changes in the immune system, namely, 
+progressively higher levels of circulating inflammatory markers, characteristics 
+changes of circulating immune subset cells and altered immune function. The 
+neutrophil to lymphocyte ratio (NL ratio) has been identified as a prognostic 
+indicator for neoplastic disease progression, in predicting chronic degenerative 
+diseases, and as a potential indirect marker of healthy aging. This study aims 
+to examine the longitudinal association of neutrophil, lymphocyte absolute 
+count, and their ratio with longitudinal risk for multimorbidity and mortality. 
+The Baltimore Longitudinal Study of Aging (BLSA) is an open observational cohort 
+study of community-dwelling volunteers that are followed every 1-4 years 
+depending on their age. The sample considered in the study consists of 1769 
+participants (5090 follow-ups) with completed data for physical examination, 
+health history assessment, and donated a blood sample. The NL ratio increased 
+with age and was associated with a higher risk of mortality, while a lower NL 
+ratio was inversely correlated with multimorbidity. Neutrophils increased with 
+aging and an increase in their absolute number predicted mortality risk. 
+However, the absolute number of lymphocytes was associated with age only in a 
+cross-sectional analysis. In conclusion, this study supports the importance of 
+the NL ratio and absolute neutrophil count as markers of aging health status, 
+and as significant predictors of all-cause mortality and multimorbidity in aging 
+individuals. It remains to be demonstrated whether interventions contrasting 
+these trends in circulating cells may result in improved health outcomes.
+
+© 2024. The Author(s), under exclusive licence to American Aging Association.
+
+DOI: 10.1007/s11357-023-01034-7
+PMID: 38183599
+
+
+20. Obes Surg. 2024 Jan 6. doi: 10.1007/s11695-023-07000-8. Online ahead of
+print.
+
+The Utilisation of Digital Applications for Measuring Patient Outcomes Following 
+Bariatric Surgery: a Systematic Review and Meta-analysis of Comparative Studies.
+
+Farinella E(1)(2), Koliakos N(3), Papakonstantinou D(4), Breuer N(3), Pau L(3), 
+Poras M(3), Maréchal MT(3), Briganti G(5).
+
+Author information:
+(1)Department of Digestive Surgery, Saint-Pierre University Hospital, Université 
+Libre de Bruxelles, 1000, Brussels, Belgium. eleonora.farinella@stpierre-bru.be.
+(2)Artificial Intelligence and Digital Medicine, Faculty of Medicine, University 
+of Mons, Mons, Belgium. eleonora.farinella@stpierre-bru.be.
+(3)Department of Digestive Surgery, Saint-Pierre University Hospital, Université 
+Libre de Bruxelles, 1000, Brussels, Belgium.
+(4)Department of Surgery, Attikon University Hospital, National and Kapodistrian 
+University of Athens, Medical School, Athens, Greece.
+(5)Artificial Intelligence and Digital Medicine, Faculty of Medicine, University 
+of Mons, Mons, Belgium.
+
+In the context of escalating obesity rates, bariatric surgery holds a crucial 
+role in managing severely obese patients. With a demonstrated effectiveness in 
+weight loss and with the advent of ambulatory surgery, bariatric surgery allows 
+for a streamlined care pathway, ideally suited for postoperative surveillance 
+using digital health applications. The aim of this systematic review and 
+meta-analysis is to evaluate the effect of eHealth-delivered health services or 
+support for adults undergoing bariatric surgery. Five studies, encompassing 2210 
+patients, were analysed. The intervention group showed a 10% increase in total 
+weight reduction and a 22% reduction in excess weight loss. ED visitation rates 
+also trended towards reduction. Despite the absence of clear statistical 
+superiority for DHA, the findings suggest potential benefits of DHA in 
+postoperative monitoring.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11695-023-07000-8
+PMID: 38183593
+
+
+21. Neurochem Res. 2024 Jan 6. doi: 10.1007/s11064-023-04097-2. Online ahead of 
+print.
+
+Shank3 Deficiency Results in a Reduction in GABAergic Postsynaptic Puncta in the 
+Olfactory Brain Areas.
+
+Mihalj D(1), Borbelyova V(2), Pirnik Z(1)(3)(4), Bacova Z(1), Ostatnikova D(3), 
+Bakos J(5)(6).
+
+Author information:
+(1)Institute of Experimental Endocrinology, Biomedical Research Center, Slovak 
+Academy of Sciences, Dubravska cesta 9, Bratislava, 845 05, Slovakia.
+(2)Institute of Molecular Biomedicine, Faculty of Medicine, Comenius University, 
+Bratislava, Slovakia.
+(3)Institute of Physiology, Faculty of Medicine, Comenius University, 
+Bratislava, Slovakia.
+(4)Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 
+Prague, Czech Republic.
+(5)Institute of Experimental Endocrinology, Biomedical Research Center, Slovak 
+Academy of Sciences, Dubravska cesta 9, Bratislava, 845 05, Slovakia. 
+j.bakos@savba.sk.
+(6)Institute of Physiology, Faculty of Medicine, Comenius University, 
+Bratislava, Slovakia. j.bakos@savba.sk.
+
+Dysfunctional sensory systems, including altered olfactory function, have 
+recently been reported in patients with autism spectrum disorder (ASD). 
+Disturbances in olfactory processing can potentially result from 
+gamma-aminobutyric acid (GABA)ergic synaptic abnormalities. The specific 
+molecular mechanism by which GABAergic transmission affects the olfactory system 
+in ASD remains unclear. Therefore, the present study aimed to evaluate selected 
+components of the GABAergic system in olfactory brain regions and primary 
+olfactory neurons isolated from Shank3-deficient (-/-) mice, which are known for 
+their autism-like behavioral phenotype. Shank3 deficiency led to a significant 
+reduction in GEPHYRIN/GABAAR colocalization in the piriform cortex and in 
+primary neurons isolated from the olfactory bulb, while no change of cell 
+morphology was observed. Gene expression analysis revealed a significant 
+reduction in the mRNA levels of GABA transporter 1 in the olfactory bulb and 
+Collybistin in the frontal cortex of the Shank3-/- mice compared to WT mice. A 
+similar trend of reduction was observed in the expression of Somatostatin in the 
+frontal cortex of Shank3-/- mice. The analysis of the expression of other 
+GABAergic neurotransmission markers did not yield statistically significant 
+results. Overall, it appears that Shank3 deficiency leads to changes in 
+GABAergic synapses in the brain regions that are important for olfactory 
+information processing, which may represent basis for understanding functional 
+impairments in autism.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11064-023-04097-2
+PMID: 38183586
+
+
+22. Ecotoxicology. 2024 Jan 6. doi: 10.1007/s10646-023-02723-x. Online ahead of 
+print.
+
+Anatomical and morphological changes in Pinus sylvestris and Larix sibirica 
+needles under impact of emissions from a large aluminum enterprise.
+
+Kalugina OV(1), Afanasyeva LV(2), Mikhailova TA(1).
+
+Author information:
+(1)Laboratory of Natural and Anthropogenic Ecosystems, Siberian Institute of 
+Plant Physiology and Biochemistry Siberian Branch of the Russian Academy of 
+Sciences, Lermontov str., 132, 664033, Irkutsk, Russia.
+(2)Laboratory of Floristics and Geobotany, Institute of General and Experimental 
+Biology Siberian Branch of the Russian Academy of Sciences, Sakhyanova str., 6, 
+670047, Ulan-Ude, Russia. afanl@mail.ru.
+
+Species-specific anatomical and morphological characteristics of Pinus 
+sylvestris and Larix sibirica needles were studied at different levels of tree 
+stand pollution by aluminum smelter emissions. The anatomical characteristics of 
+the needle were studied using light microscopy. The level of tree stand 
+pollution was determined using the cluster analysis outcomes of the pollutant 
+elements content (fluorine, sulfur, and heavy metals) in the needles. Four 
+levels of tree stand pollution were separated: low, moderate, high, and 
+critical, as well as background tree stand in unpolluted areas. It was found 
+that the state of tree phytomass deteriorated with increasing levels of 
+pollution (from low to critical): pine crown defoliation increased to 85%, and 
+larch defoliation increased to 65%. The life span of pine needles was reduced to 
+2-3 years, with a background value of 6-7 years. The change of morphological 
+parameters was more pronounced in P. sylvestris: the weight and length of the 
+2-year-old shoot decreased by 2.7-3.1 times compared to the background values; 
+the weight of needles on the shoot and the number of needle pairs on the 
+shoot-by 1.9-2.1 times. The length of the needle and shoot and the number of L. 
+sibirica brachyblasts decreased by 1.8-1.9 times. The anatomical parameters of 
+the needle also changed to a greater extent in P. sylvestris. Up to the high 
+level of tree pollution, we observed a decrease in the cross-sectional area of 
+the needle, central cylinder, vascular bundle, area and thickness of mesophyll, 
+number and diameter of resin ducts by 18-66% compared to background values. At 
+the critical pollution level, when the content of pollutant elements in pine 
+needles reached maximum values, the anatomical parameters of the remaining few 
+green needles were close to background values. In our opinion, this may be due 
+to the activation of mechanisms aimed at maintaining the viability of trees. A 
+reduction in thickness and area of assimilation tissue in the L. sibirica needle 
+was detected only at the critical pollution level. An upward trend in these 
+parameters was found at low, medium, and high pollution levels of tree stand, 
+which may indicate an adaptive nature. The results suggested that at a similar 
+pollution level of trees, the greatest amount of negative anatomical and 
+morphological changes were recorded in pine needles, which indicates a greater 
+sensitivity of this species to technogenic emissions.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10646-023-02723-x
+PMID: 38183574
+
+
+23. J Endocrinol Invest. 2024 Jan 6. doi: 10.1007/s40618-023-02279-x. Online
+ahead  of print.
+
+Remnant cholesterol is associated with hip BMD and low bone mass in young and 
+middle-aged men: a cross-sectional study.
+
+Hou X(#)(1), Tian F(#)(1), Guo L(1), Yu Y(1), Hu Y(1), Chen S(2), Wang M(3), 
+Yang Z(1), Wang J(1), Fan X(2), Xing L(1)(4), Wu S(5), Zhang N(6).
+
+Author information:
+(1)School of Public Health, North China University of Science and Technology, 
+Tangshan, People's Republic of China.
+(2)Kailuan General Hospital, Tangshan, People's Republic of China.
+(3)Beijing Jishuitan Hospital, Capital Medical University, Beijing, People's 
+Republic of China.
+(4)Affiliated Hospital of North China University of Science and Technology, 
+Tangshan, People's Republic of China.
+(5)Kailuan General Hospital, Tangshan, People's Republic of China. 
+drwusl@163.com.
+(6)Kailuan General Hospital, Tangshan, People's Republic of China. 
+zhnan138@163.com.
+(#)Contributed equally
+
+PURPOSE: Remnant cholesterol (RC) is a contributor to cardiovascular diseases, 
+obesity, diabetes, and metabolic syndrome. However, the specific relationship 
+between RC and bone metabolism remains unexplored. Therefore, we aimed to 
+investigate the relationships of RC with hip bone mineral density (BMD) and the 
+risk of low bone mass.
+METHODS: Physical examination data was collected from men aged < 60 years as 
+part of the Kailuan Study between 2014 and 2018. The characteristics of the 
+participants were compared between RC quartile groups. A generalized linear 
+regression model was used to evaluate the relationship between RC and hip BMD 
+and a logistic regression model was used to calculate odds ratios (ORs) and 95% 
+confidence intervals (CIs) for low bone mass. Additional analyses were performed 
+after stratification by body mass index (BMI) (≥ or < 24 kg/m2). Sensitivity 
+analyses were performed by excluding individuals who were taking lipid-lowering 
+therapy or had cancer, cardiovascular diseases, or diabetes.
+RESULTS: Data from a total of 7,053 participants were included in the analysis. 
+After adjustment for confounding factors, RC negatively correlated with hip BMD 
+(β =  - 0.0079, 95% CI: - 0.0133, - 0.0025). The risk of low bone mass increased 
+from the lowest to the highest RC quartile, with ORs of 1 (reference), 1.09 (95% 
+CI: (0.82, 1.44), 1.35 (95%CI: 1.02, 1.77), and 1.43 (95% CI: 1.09, 1.89) for 
+Q1, Q2, Q3, and Q4, respectively (P for trend = 0.004) in the fully adjusted 
+model. Compared to RC < 0.80 mmol/l group, the risk of low bone mass increased 
+39% in RC ≥ 0.80 mmol/l group (P < 0.001). The correlation between RC and hip 
+BMD was stronger in participants with BMI ≥ 24 kg/m2 group (β =  - 0.0159, 95% 
+CI: - 0.0289, - 0.0029). The results of sensitivity analyses were consistent 
+with the main results.
+CONCLUSION: We have identified a negative correlation between serum RC and hip 
+BMD, and a higher RC concentration was found to be associated with a greater 
+risk of low bone mass in young and middle-aged men.
+
+© 2024. The Author(s), under exclusive licence to Italian Society of 
+Endocrinology (SIE).
+
+DOI: 10.1007/s40618-023-02279-x
+PMID: 38183565
+
+
+24. Adm Policy Ment Health. 2024 Jan 6. doi: 10.1007/s10488-023-01336-0. Online 
+ahead of print.
+
+A Longitudinal Analysis of Trajectories and Predictors of Fidelity Using the 
+SafeCare Parenting Model.
+
+Lyons MJ(1), J Whitaker D(2), Self-Brown S(2), A Weeks E(2).
+
+Author information:
+(1)Wellstar College of Health and Human Services, Kennesaw State University, 
+Kennesaw, USA. mlyons30@kennesaw.edu.
+(2)School of Public Health, Georgia State University, Atlanta, USA.
+
+Evidence-based practice (EBP) fidelity, understood as the extent to which a 
+program is implemented as the developers intended, is a key implementation 
+variable which likely relates to consumer outcomes. However, studies that track 
+fidelity longitudinally and at large scale are uncommon, and finding reliable 
+predictors of fidelity has proven to be a complex challenge. Further, attitudes 
+toward EBP are a potentially important predictor of fidelity, but results across 
+the literature have been mixed. The purpose of the present study is to use data 
+from the ongoing implementation and dissemination of the SafeCare model to 
+better understand (1) the characteristics of SafeCare implementation fidelity 
+trajectories, and (2) whether individual level factors predict differences in 
+fidelity and fidelity trajectories, especially provider attitudes toward EBP. 
+The analyses reported here include 14,778 observed fidelity sessions by 868 
+providers in 172 agencies. We use multilevel modeling to examine fidelity, 
+fidelity trajectories over time, and several potential individual-level 
+predictors of fidelity, including demographics, work history, and attitudes 
+toward EBP. We found: (1) that SafeCare fidelity begins high at baseline (93.85% 
+on average); (2) that SafeCare fidelity displays a statistically significant 
+trend of positive linear growth, even among those with less positive attitudes; 
+and (3) that positive attitudes are associated with slightly higher fidelity on 
+average and at baseline, while negative attitudes are associated with slightly 
+lower fidelity on average and at baseline. To our knowledge, this is the largest 
+longitudinal analysis of EBP fidelity in a child welfare program to date, and 
+our findings support the notion that intensive coaching supports which are 
+titrated over time can be sufficient to ensure sustained high fidelity, at least 
+in some cases. Further, these findings indicate that robust training and 
+coaching processes can ensure high fidelity and fidelity growth even among 
+providers with less positive attitudes toward EBP.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10488-023-01336-0
+PMID: 38183521
+
+
+25. Environ Monit Assess. 2024 Jan 6;196(2):115. doi: 10.1007/s10661-023-12270-x.
+
+Impacts of recent rainfall changes on agricultural productivity and water 
+resources within the Southern Western Ghats of Kerala, India.
+
+R L(1), Thomas J(2), Joseph S(3).
+
+Author information:
+(1)Department of Environmental Sciences, University of Kerala, 
+Thiruvananthapuram, 695581, Kerala, India.
+(2)Department of Geological and Mining Engineering and Sciences, Michigan 
+Technological University, Houghton, MI, 49931, USA.
+(3)Department of Environmental Sciences, University of Kerala, 
+Thiruvananthapuram, 695581, Kerala, India. jsabu@keralauniversity.ac.in.
+
+Significant changes in rainfall patterns are critical to agriculture, and the 
+dependency of cropping systems on rainfall variability would engender 
+appropriate farming practices and agriculture policies for a climate-resilient 
+agriculture system. This study analyses the significance of rainfall variability 
+on agriculture productivity in the Wayanad district of Kerala (India) using time 
+series data on rainfall (1989-2019) and crop yield (2000-2019). The spatial 
+variability of rainfall patterns reveals a dichotomy between the rain gauge 
+stations in the northern and southern parts of the region. Despite the absence 
+of statistically significant trends in the monthly, seasonal and annual 
+rainfall, based on the Mann-Kendall trend analysis, an increase in the yield of 
+many crops (e.g., winter paddy, banana) is evident, which emphasises the 
+critical role of irrigation in driving the crop productivity. As an adaptation 
+strategy to changing rainfall patterns, irrigation would meet the additional 
+crop water requirement for sustainable agricultural production under the varying 
+rainfall distributions. However, the increase in the area under irrigation in 
+recent years has had significant implications for both surface water and 
+groundwater resources. The conclusive findings suggest that the region requires 
+climate-resilient agriculture, focusing on optimising irrigation and developing 
+sustainable agriculture and water conservation strategies.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s10661-023-12270-x
+PMID: 38183520
+
+
+26. Breast Cancer Res Treat. 2024 Jan 6. doi: 10.1007/s10549-023-07177-7. Online 
+ahead of print.
+
+Reciprocal regulation of forkhead box C1 and L1 cell adhesion molecule 
+contributes to triple-negative breast cancer progression.
+
+Zhang F(#)(1), Xu Y(#)(2), Lin J(2), Pan H(1), Giuliano AE(3), Cui X(3), Cui 
+Y(4).
+
+Author information:
+(1)Oncology Research Laboratory, Cancer Hospital of Shantou University Medical 
+College, Shantou, Guangdong, China.
+(2)Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and 
+Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 
+Guangdong, China.
+(3)Department of Surgery, Cedars-Sinai Medical Center, Samuel Oschin 
+Comprehensive Cancer Institute, Los Angeles, CA, USA.
+(4)Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and 
+Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 
+Guangdong, China. ykcui@stu.edu.cn.
+(#)Contributed equally
+
+PURPOSE: The potential of targeting forkhead box C1 (FOXC1) as a therapeutic 
+approach for triple-negative breast cancer (TNBC) is promising. However, a 
+comprehensive understanding of FOXC1 regulation, particularly upstream factors, 
+remains elusive. Expression of the L1 cell adhesion molecule (L1CAM), a 
+transmembrane glycoprotein associated with brain metastasis, was observed to be 
+positively associated with FOXC1 transcripts. Thus, this study aims to 
+investigate their relationship in TNBC progression.
+METHODS: Publicly available FOXC1 and L1CAM transcriptomic data were obtained, 
+and their corresponding proteins were analyzed in four TNBC cell lines. In BT549 
+cells, FOXC1 and L1CAM were individually silenced, while L1CAM was overexpressed 
+in BT549-shFOXC1, MDA-MB-231, and HCC1937 cells. CCK-8, transwell, and wound 
+healing assays were performed in these cell lines, and immunohistochemical 
+staining was conducted in tumor samples.
+RESULTS: A positive correlation between L1CAM and FOXC1 transcripts was observed 
+in publicly available datasets. In BT549 cells, knockdown of FOXC1 led to 
+reduced L1CAM expression at both the transcriptional and protein levels, and 
+conversely, silencing of L1CAM decreased FOXC1 protein levels, but 
+interestingly, FOXC1 transcripts remained largely unaffected. Overexpressing 
+L1CAM resulted in increased FOXC1 protein expression without significant changes 
+in FOXC1 mRNA levels. This trend was also observed in BT549-shFOXC1, 
+MDA-MB-231-L1CAM, and HCC1937-L1CAM cells. Notably, alterations in FOXC1 or 
+L1CAM levels corresponded to changes in cell proliferation, migration, and 
+invasion capacities. Furthermore, a positive correlation between L1CAM and FOXC1 
+protein expression was detected in human TNBC tumors.
+CONCLUSION: FOXC1 and L1CAM exhibit co-regulation at the protein level, with 
+FOXC1 regulating at the transcriptional level and L1CAM regulating at the 
+post-transcriptional level, and together they positively influence cell 
+proliferation, migration, and invasion in TNBC.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s10549-023-07177-7
+PMID: 38183514
+
+
+27. Graefes Arch Clin Exp Ophthalmol. 2024 Jan 6. doi:
+10.1007/s00417-023-06357-x.  Online ahead of print.
+
+The temporal trends in association between newer medications and diabetic 
+retinopathy.
+
+Jacob S(1), Varughese GI(2).
+
+Author information:
+(1)University Hospitals Birmingham NHS Foundation Trust, B15 2GW, Birmingham, 
+UK.
+(2)Royal Stoke University Hospital, University Hospitals of North Midlands NHS 
+Trust, Stoke on Trent, ST4 6QG, UK. George.Varughese@uhnm.nhs.uk.
+
+DOI: 10.1007/s00417-023-06357-x
+PMID: 38183465
+
+
+28. Eur Child Adolesc Psychiatry. 2024 Jan 6. doi: 10.1007/s00787-023-02340-3. 
+Online ahead of print.
+
+Comparison of antipsychotic drug use in children and adolescents in the 
+Netherlands before and during the COVID-19 pandemic.
+
+Gangapersad RN(1)(2), Zhou G(3), Garcia-Gomez P(4), Bos J(3), Hak E(3), Koch 
+BCP(5), Schuiling-Veninga CCM(3), Dierkcx B(6).
+
+Author information:
+(1)Department of Hospital Pharmacy, Erasmus University Medical Center, 
+Rotterdam, The Netherlands. r.gangapersad@erasmusmc.nl.
+(2)Erasmus School of Economics, Erasmus University Rotterdam, Rotterdam, The 
+Netherlands. r.gangapersad@erasmusmc.nl.
+(3)Unit of Pharmaco-Therapy, -Epidemiology and -Economics (PTEE), Department of 
+Pharmacy, University of Groningen, Groningen, The Netherlands.
+(4)Erasmus School of Economics, Erasmus University Rotterdam, Rotterdam, The 
+Netherlands.
+(5)Department of Hospital Pharmacy, Erasmus University Medical Center, 
+Rotterdam, The Netherlands.
+(6)Department of Child and Adolescent Psychiatry/Psychology, Erasmus Medical 
+Center, Rotterdam, The Netherlands.
+
+This study aims to describe the patterns and trends in antipsychotic 
+prescription among Dutch youth before and during the corona virus disease 2019 
+(COVID-19) pandemic (between 2017 and 2022). The study specifically aims to 
+determine whether there has been an increase or decrease in antipsychotic 
+prescription among this population, and whether there are any differences in 
+prescription patterns among different age and sex groups. The study utilized the 
+IADB database, which is a pharmacy prescription database containing dispensing 
+data from approximately 120 community pharmacies in the Netherlands, to analyze 
+the monthly prevalence and incidence rates of antipsychotic prescription among 
+Dutch youth before and during the pandemic. The study also examined the 
+prescribing patterns of the five most commonly used antipsychotics and conducted 
+an autoregressive integrated moving average (ARIMA) analysis using data prior to 
+the pandemic, to predict the expected prevalence rate during the pandemic. The 
+prescription rate of antipsychotics for Dutch youth was slightly affected by the 
+pandemic, with a monthly prevalence of 4.56 [4.50-4.62] per 1000 youths before 
+COVID-19 pandemic and 4.64 [4.59-4.69] during the pandemic. A significant 
+increase in prevalence was observed among adolescent girls aged 13-19 years. The 
+monthly incidence rate remained stable overall, but rose for adolescent girls 
+aged 13-19 years. Aripiprazole, and Quetiapine had higher monthly prevalence 
+rates during the pandemic, while Risperidone and Pipamperon had lower rates. 
+Similarly, the monthly incidence rates of Aripiprazole and Olanzapine went up, 
+while Risperidone went down. Furthermore, the results from the ARIMA analysis 
+revealed that despite the pandemic, the monthly prevalence rate of antipsychotic 
+prescription was within expectation. The findings of this study suggest that 
+there has been a moderate increase in antipsychotic prescription among Dutch 
+youth during the COVID-19 pandemic, particularly in adolescent females aged 
+13-19 years. However, the study also suggests that factors beyond the pandemic 
+may be contributing to the rise in antipsychotic prescription in Dutch youth.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00787-023-02340-3
+PMID: 38183460
+
+
+29. Int J Colorectal Dis. 2024 Jan 6;39(1):15. doi: 10.1007/s00384-023-04578-4.
+
+Evolution of surgical approach to rectal cancer resection: A multinational 
+registry assessment.
+
+Sijmons JML(1), Dekker JWT(2), Tuynman JB(2), Mohan HM(3), Smart P(3), Heriot 
+AG(3), Walker K(4), Kuryba A(4), Matthiessen P(5), Tanis PJ(2); International 
+Colorectal Cancer Registry Collaboration (ICORC) Collaborators.
+
+Collaborators: Samour T, Kroon H, Peng SL, Rawson N, Philpot S, Hayes I, Iversen 
+LH, Bjerregaard JK, Qvortrup C, Gögenür I, Spence R, Tollenaar R, Hompes R, 
+Ghignone F, Blake H, Fearnhead N, van der Meulen J, Braun M, Wibe A, Graham J, 
+Mackay G, Morrison D, Syk I, Ko C, Avellaneda N.
+
+Author information:
+(1)Dutch ColoRectal Audit (DCRA), Leiden, Netherlands. juliesijmons@outlook.com.
+(2)Dutch ColoRectal Audit (DCRA), Leiden, Netherlands.
+(3)Bowel Cancer Outcomes Registry (BCOR), Melbourne, Australia.
+(4)National Bowel Cancer Audit (NBOCA), Leeds, UK.
+(5)Swedish ColoRectal Cancer Registry (SCRCR), Umea, Sweden.
+
+PURPOSE: Surgical approach to rectal cancer has evolved in recent decades, with 
+introduction of minimally invasive surgery (MIS) techniques and local excision. 
+Since implementation might differ internationally, this study is aimed at 
+evaluating trends in surgical approach to rectal cancer across different 
+countries over the last 10 years and to gain insight into patient, tumour and 
+treatment characteristics.
+METHODS: Pseudo-anonymised data of patients undergoing resection for rectal 
+cancer between 2010 and 2019 were extracted from clinical audits in the 
+Netherlands (NL), Sweden (SE), England-Wales (EW) and Australia-New Zealand 
+(AZ).
+RESULTS: Ninety-nine thousand five hundred ninety-seven patients were included 
+(38,413 open, 55,155 MIS and 5416 local excision). An overall increase in MIS 
+was observed from 29.9% in 2010 to 72.1% in 2019, with decreasing conversion 
+rates (17.5-9.0%). The MIS proportion was highly variable between countries in 
+the period 2010-2014 (54.4% NL, 45.3% EW, 39.8% AZ, 14.1% SE, P < 0.001), but 
+variation reduced over time (2015-2019 78.8% NL, 66.3% EW, 64.3% AZ, 53.2% SE, 
+P < 0.001). The proportion of local excision for the two periods was highly 
+variable between countries: 4.7% and 11.8% in NL, 3.9% and 7.4% in EW, 4.7% and 
+4.6% in AZ, 6.0% and 2.9% in SE.
+CONCLUSIONS: Application and speed of implementation of MIS were highly variable 
+between countries, but each registry demonstrated a significant increase over 
+time. Local excision revealed inconsistent trends over time.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00384-023-04578-4
+PMID: 38183451
+
+
+30. Eur J Pediatr. 2024 Jan 6. doi: 10.1007/s00431-023-05373-7. Online ahead of 
+print.
+
+Healthcare utilization is increased in children living in urban areas, with 
+ethnicity-related disparities: A big data analysis study.
+
+Ghanayem D(#)(1)(2), Kasem Ali Sliman R(#)(3)(4), Schwartz N(5), Cohen H(5), 
+Shehadeh S(1)(6)(2), Hamad Saied M(1)(7)(2), Pillar G(1)(2).
+
+Author information:
+(1)Department of Pediatrics, Clalit Health Care Organization, Carmel Medical 
+Center, 7 Michal St., Haifa, 3436212, Israel.
+(2)Technion Faculty of Medicine, Haifa, Israel.
+(3)Department of Pediatrics, Clalit Health Care Organization, Carmel Medical 
+Center, 7 Michal St., Haifa, 3436212, Israel. reem.kasimali.275@gmail.com.
+(4)Technion Faculty of Medicine, Haifa, Israel. reem.kasimali.275@gmail.com.
+(5)Research Authority, Clalit Health Care Organization, Carmel Medical Center, 
+Haifa, Israel.
+(6)Infectious Disease Unit, Carmel Medical Center, Haifa, Israel.
+(7)Department of Pediatric Immunology and Infectious Diseases, Wilhelmina 
+Children's Hospital/University Medical Center, Utrecht, Netherlands.
+(#)Contributed equally
+
+This study aimed to investigate differences in pediatric healthcare utilization 
+in Israel over 10 years by examining differences across populations defined by 
+living environment and ethnicity. Data was obtained from the Clalit Health Care 
+data warehouse, covering over 250,000 children residing in Haifa and Western 
+Galilee districts. The population groups were categorized based on ethnicity 
+(Jewish vs Arab) and residential settings (urban vs rural). Healthcare 
+utilization was consistently higher among Jewish than Arab children, 
+irrespective of the specific dimension analyzed. Additionally, urban-dwelling 
+children exhibited higher usage rates than those residing in rural areas in all 
+investigated dimensions. However, Jewish children showed significantly about 18% 
+lower hospitalization rates than Arab children across all years (P < 0.001). No 
+significant differences in hospitalizations were observed between urban and 
+rural children (RR 0.999, CI (0.987-1.011)). Notably, the study revealed reduced 
+antibiotic consumption and hospitalizations over the years for all populations. 
+Additionally, we found that Arab children and those living in rural areas had 
+reduced access to healthcare, as evidenced by 10-40% fewer physician visits, 
+laboratory tests, and imaging (P < 0.001).    Conclusion: This study highlights 
+the substantial population-based disparities in healthcare utilization among 
+children in Israel despite the equalizing effect of the national health 
+insurance law. Rural and low socioeconomic populations seem to have reduced 
+healthcare access, showing decreased healthcare utilization. Consequently, it is 
+imperative to address these disparities and implement targeted interventions to 
+enhance healthcare access for Arab children and rural communities. The decline 
+in antibiotic usage and hospitalizations suggests positive trends in pediatric 
+health care, necessitating ongoing efforts to ensure equitable access and 
+quality of care for all populations. What is Known: • Healthcare systems 
+worldwide vary in coverage and accessibility, including Israel, which stands out 
+for its diverse population. • Existing research primarily focuses on healthcare 
+utilization among adults, leaving a need for comprehensive data on children's 
+healthcare patterns globally. What is New: • Investigating over 250,000 
+children, this study reveals higher healthcare utilization among Jewish and 
+urban children across all dimensions. • Despite Israel's national health 
+insurance law, the study underscores the significant population-based 
+disparities in healthcare utilization.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00431-023-05373-7
+PMID: 38183439
+
+
+31. J Neurol. 2024 Jan 6. doi: 10.1007/s00415-023-12158-3. Online ahead of print.
+
+Estimating motor progression trajectory pursuant to temporal dynamic status of 
+cardiac denervation in Parkinson's disease.
+
+Yoo SW(1), Ryu DW(1), Oh YS(1), Ha S(2), Lyoo CH(3), Kim Y(1), Yoo JY(1), Kim 
+JS(4)(5).
+
+Author information:
+(1)Department of Neurology, College of Medicine, The Catholic University of 
+Korea, Seoul, Republic of Korea.
+(2)Division of Nuclear Medicine, Department of Radiology, College of Medicine, 
+The Catholic University of Korea, Seoul, Republic of Korea.
+(3)Department of Neurology, Gangnam Severance Hospital, Yonsei University 
+College of Medicine, Seoul, Republic of Korea.
+(4)Department of Neurology, College of Medicine, The Catholic University of 
+Korea, Seoul, Republic of Korea. neuronet@catholic.ac.kr.
+(5)Department of Neurology, College of Medicine, The Catholic University of 
+Korea, Seoul St. Mary's Hospital, 222 Banpo-Daero, Seocho-Gu, Seoul, 06591, 
+Republic of Korea. neuronet@catholic.ac.kr.
+
+BACKGROUND: Parkinson's disease (PD) is a multifaceted disease that encompasses 
+diverse clinical phenotypes. The diversity of PD could be subtyped based on the 
+temporal dynamic status of cardiac sympathetic innervation; (1) initially, 
+denervated myocardium (peripheral nervous system-predominant; PNS-predominant), 
+(2) preserved myocardium (central nervous system-predominant; CNS-predominant), 
+and (3) preserved myocardium who developed cardiac sympathetic denervation (CSD) 
+on the subsequent imaging (Converter; delayed cardiac denervation). This study 
+assessed how the cardiac denervation could reflect the pathobiology. We 
+investigated whether this phenotyping could help predict the motor progression 
+trajectory of PD.
+METHODS: Cardiac sympathetic innervation was evaluated using initial and 
+sequential 123I-meta-iodobenzylguanidine myocardial scintigraphy and patients 
+were stratified into three groups as above. Motor severity and progression were 
+evaluated in each patient. The association between subtypes and dopaminergic 
+nigrostriatal degeneration was analyzed. The influence of cardiac denervation on 
+motor progression was also investigated.
+RESULTS: Among the enrolled 195 patients, 144 PD subjects were defined as 
+PNS-predominant, 16 as Converter, and 35 as CNS-predominant. The most severe 
+nigrostriatal degeneration was observed in the PNS-predominant group and the 
+dopaminergic degeneration was the most asymmetric in the CNS-predominant group. 
+Positive linear trends of nigrostriatal degeneration and its asymmetric 
+degeneration of striatum and globus pallidus were found across the patterns of 
+cardiac sympathetic innervation (PNS-predominant vs. Converter vs. 
+CNS-predominant). It indicated an increasing degree of asymmetric degeneration 
+among the groups. A longitudinal estimation of motor progression revealed 
+distinct cardiac denervation trajectories for each subtype.
+CONCLUSIONS: These results implicated that the subtypes of CSD might indicate a 
+predominant origin and spreading pattern of pathobiology.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany.
+
+DOI: 10.1007/s00415-023-12158-3
+PMID: 38183421
+
+
+32. Int J Immunogenet. 2024 Jan 6. doi: 10.1111/iji.12651. Online ahead of print.
+
+Reduced human leukocyte antigen mismatching is associated with more favourable 
+outcomes after unrelated donor haematopoietic stem cell transplantation.
+
+Valatkaite-Rakstiene B(1)(2), Cekauskiene R(1)(2), Zvirblis T(3), Jakubauskas 
+A(1)(2).
+
+Author information:
+(1)State Research Institute Centre for Innovative Medicine, Vilnius, Lithuania.
+(2)Hematology, Oncology and Transfusion Medicine Centre, Vilnius University 
+Hospital Santaros Klinikos, Vilnius, Lithuania.
+(3)Department of Human and Medical Genetics, Institute of Biomedical sciences, 
+Faculty of Medicine, Vilnius University, Vilnius, Lithuania.
+
+The patient-donor human leukocyte antigen (HLA) match remains the most important 
+prognostic factor for successful unrelated donor haematopoietic stem cell 
+transplantation (UD-HSCT). This single-centre study comprised 125 adult patients 
+with malignant haematological diseases undergoing their first UD-HSCT. The 
+primary goal of this study was to validate the impact of HLA matching on HSCT 
+outcomes, specifically at the HLA-DPB1 and HLA-DRB3/4/5 loci. A multivariable 
+Cox regression analysis with a backward selection algorithm was employed to 
+assess the associations of selected prognostic factors with outcomes after 
+UD-HSCT. Any HLA locus mismatch was found to be associated with an increased 
+incidence of grade II-IV acute graft versus host disease (aGvHD) at 100 days 
+(p = .031; hazard ratio [HR] 1.935) and 6 months (p = .004; HR 2.284) after 
+HSCT. The results of the following analyses also confirmed the strong impact of 
+HLA-DPB1-only mismatch on the incidence of grade II-IV aGvHD at 100-day 
+(p = .006; HR 2.642) as well as at 6-month (p = .007; HR 2.401) time periods. 
+The HLA-DPB1-only mismatch was also shown to be statistically significantly 
+associated with lower relapse incidence (p = .034; HR 0.333). The impact of the 
+HLA-DRB3/4/5 mismatch on outcomes was inconclusive, though the two and more 
+HLA-DPB1 + DRB3/4/5-only mismatches showed a trend towards worse outcomes than a 
+single mismatch. Based on our findings and those of more comprehensive studies, 
+the extended HLA loci typing of patients and donors is suggested to avoid 
+unexpected HLA mismatches during the UD selection.
+
+© 2024 John Wiley & Sons Ltd.
+
+DOI: 10.1111/iji.12651
+PMID: 38183417
+
+
+33. Alzheimers Dement. 2024 Jan 6. doi: 10.1002/alz.13610. Online ahead of print.
+
+Genetic risk score for Alzheimer's disease predicts brain volume differences in 
+mid and late life in UK biobank participants.
+
+Buto PT(1)(2), Wang J(1)(2), La Joie R(3), Zimmerman SC(1), Glymour MM(2), 
+Ackley SF(2), Hoffmann TJ(1), Yaffe K(1)(4)(5), Zeki Al Hazzouri A(6), Brenowitz 
+WD(1)(7).
+
+Author information:
+(1)Department of Epidemiology & Biostatistics, University of California, San 
+Francisco, California, USA.
+(2)Department of Epidemiology, Boston University School of Public Health, 
+Boston, Massachusetts, USA.
+(3)Memory and Aging Center, University of California, San Francisco, California, 
+USA.
+(4)Departments of Psychiatry and Behavioral Sciences, University of California, 
+San Francisco, California, USA.
+(5)Departments of Neurology, University of California, San Francisco, USA.
+(6)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University, New York, New York, USA.
+(7)Kaiser Permanente Center for Health Research, Portland, Oregon, USA.
+
+INTRODUCTION: We estimated the ages when associations between Alzheimer's 
+disease (AD) genes and brain volumes begin among middle-aged and older adults.
+METHODS: Among 45,616 dementia-free participants aged 45-80, linear regressions 
+tested whether genetic risk score for AD (AD-GRS) had age-dependent associations 
+with 38 regional brain magnetic resonance imaging volumes. Models were adjusted 
+for sex, assessment center, genetic ancestry, and intracranial volume.
+RESULTS: AD-GRS modified the estimated effect of age (per decade) on the 
+amygdala (-0.41 mm3 [-0.42, -0.40]); hippocampus (-0.45 mm3 [-0.45, -0.44]), 
+nucleus accumbens (-0.55 mm3 [-0.56, -0.54]), thalamus (-0.38 mm3 [-0.39, 
+-0.37]), and medial orbitofrontal cortex (-0.23 mm3 [-0.24, -0.22]). Trends 
+began by age 45 for the nucleus accumbens and thalamus, 48 for the hippocampus, 
+51 for the amygdala, and 53 for the medial orbitofrontal cortex. An AD-GRS 
+excluding apolipoprotein E (APOE) was additionally associated with entorhinal 
+and middle temporal cortices.
+DISCUSSION: APOE and other genes that increase AD risk predict lower hippocampal 
+and other brain volumes by middle age.
+
+© 2024 The Authors. Alzheimer's & Dementia published by Wiley Periodicals LLC on 
+behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.13610
+PMID: 38183377
+
+
+34. Neuropsychopharmacol Rep. 2024 Jan 6. doi: 10.1002/npr2.12413. Online ahead
+of  print.
+
+Long-acting injectable antipsychotics as maintenance therapy for schizophrenia 
+during the COVID-19 pandemic: A micro-narrative review.
+
+Oguchi Y(1), Miyake N(1)(2), Ando K(1).
+
+Author information:
+(1)Department of Neuropsychiatry, St. Marianna University School of Medicine, 
+Kawasaki, Kanagawa, Japan.
+(2)Department of Neuropsychiatry, Kawasaki Municipal Tama Hospital, Kawasaki, 
+Kanagawa, Japan.
+
+The coronavirus disease pandemic has presented healthcare systems with 
+unprecedented challenges globally and substantially impacted the management of 
+chronic diseases such as schizophrenia. This narrative review highlights the 
+usefulness of long-acting injectable antipsychotics (LAIs) as maintenance 
+therapy for patients with schizophrenia during the pandemic. The analysis of 
+relevant literature and psychiatric survey data revealed diverse trends in LAIs 
+prescription and patient adherence with oral antipsychotics. Although some 
+studies have reported a decrease in LAIs prescriptions owing to pandemic-related 
+disruptions, others have suggested stable patient adherence with oral 
+antipsychotics. Approximately 70% of Japanese psychiatrists reported an increase 
+in schizophrenia relapse rates in a survey, underscoring the critical role of 
+LAIs in maintaining therapeutic stability. The potential benefits of LAIs with 
+extended dosing intervals have been highlighted, including improving oral 
+medication adherence and reducing the frequency of hospital visits. In 
+conclusion, this review emphasizes the continued need for uninterrupted LAIs 
+therapy in conjunction with community and home-based care despite the 
+disruptions caused by the coronavirus disease pandemic. Further development of 
+LAIs maintenance therapy strategies considering the ongoing pandemic and 
+potential future public health emergencies are required.
+
+© 2024 The Authors. Neuropsychopharmacology Reports published by John Wiley & 
+Sons Australia, Ltd on behalf of The Japanese Society of 
+Neuropsychopharmacology.
+
+DOI: 10.1002/npr2.12413
+PMID: 38183370
+
+
+35. J Cachexia Sarcopenia Muscle. 2024 Jan 6. doi: 10.1002/jcsm.13414. Online
+ahead  of print.
+
+A single chemotherapy administration induces muscle atrophy, mitochondrial 
+alterations and apoptosis in breast cancer patients.
+
+Mallard J(1)(2)(3), Hucteau E(1)(2)(3), Bender L(3), Moinard-Butot F(3), 
+Rochelle E(1)(2), Boutonnet L(1), Grandperrin A(1)(2), Schott R(3), Pflumio 
+C(3), Trensz P(3), Kalish-Weindling M(3), Charles AL(1)(4), Gény B(1)(4)(5), 
+Favret F(1)(2), Pivot X(3), Hureau TJ(1)(2), Pagano AF(1)(2).
+
+Author information:
+(1)Biomedicine Research Center of Strasbourg (CRBS), UR 3072, "Mitochondrie, 
+Stress oxydant et Plasticité musculaire", University of Strasbourg, Strasbourg, 
+France.
+(2)Faculty of Sport Sciences, University of Strasbourg, Strasbourg, France.
+(3)Institut de Cancérologie Strasbourg Europe (ICANS), Strasbourg, France.
+(4)Faculty of medicine, University of Strasbourg, Strasbourg, France.
+(5)Department of Physiology and Functional Explorations, University Hospital of 
+Strasbourg, Strasbourg, France.
+
+BACKGROUND: Breast cancer patients are commonly treated with sequential 
+administrations of epirubicin-cyclophosphamide (EC) and paclitaxel (TAX). The 
+chronic effect of this treatment induces skeletal muscle alterations, but the 
+specific effect of each chemotherapy agent is unknown. This study aimed to 
+investigate the effect of EC or TAX administration on skeletal muscle 
+homeostasis in breast cancer patients.
+METHODS: Twenty early breast cancer patients undergoing EC followed by TAX 
+chemotherapies were included. Two groups of 10 women were established and 
+performed vastus lateralis skeletal muscle biopsies either before the first 
+administration (pre) of EC (50 ± 14 years) or TAX (50 ± 16 years) and 4 days 
+later (post). Mitochondrial respiratory capacity recording, reactive oxygen 
+species production, western blotting and histological analyses were performed.
+RESULTS: Decrease in muscle fibres cross-sectional area was only observed 
+post-EC (-25%; P < 0.001), associated with a reduction in mitochondrial 
+respiratory capacity for the complex I (CI)-linked substrate state (-32%; 
+P = 0.001), oxidative phosphorylation (OXPHOS) by CI (-35%; P = 0.002), CI&CII 
+(-26%; P = 0.022) and CII (-24%; P = 0.027). If H2 O2 production was unchanged 
+post-EC, an increase was observed post-TAX for OXPHOS by CII (+25%; P = 0.022). 
+We found a decrease in makers of mitochondrial content, as shown post-EC by a 
+decrease in the protein levels of citrate synthase (-53%; P < 0.001) and VDAC 
+(-39%; P < 0.001). Despite no changes in markers of mitochondrial fission, a 
+decrease in the expression of a marker of mitochondrial inner-membrane fusion 
+was found post-EC (OPA1; -60%; P < 0.001). We explored markers of mitophagy and 
+found reductions post-EC in the protein levels of PINK1 (-63%; P < 0.001) and 
+Parkin (-56%; P = 0.005), without changes post-TAX. An increasing trend in Bax 
+protein level was found post-EC (+96%; P = 0.068) and post-TAX (+77%; 
+P = 0.073), while the Bcl-2 level was decreased only post-EC (-52%; P = 0.007). 
+If an increasing trend in TUNEL-positive signal was observed post-EC (+68%; 
+P = 0.082), upregulation was highlighted post-TAX (+86%; P < 0.001), suggesting 
+activation of the apoptosis process.
+CONCLUSIONS: We demonstrated that a single administration of EC induced, in only 
+4 days, skeletal muscle atrophy and mitochondrial alterations in breast cancer 
+patients. These alterations were characterized by reductions in mitochondrial 
+function and content as well as impairment of mitochondrial dynamics and an 
+increase in apoptosis. TAX administration did not worsen these alterations as 
+this group had already received EC during the preceding weeks. However, it 
+resulted in an increased apoptosis, likely in response to the increased H2 O2 
+production.
+
+© 2024 The Authors. Journal of Cachexia, Sarcopenia and Muscle published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/jcsm.13414
+PMID: 38183352
+
+
+36. Eur J Haematol. 2024 Jan 6. doi: 10.1111/ejh.14172. Online ahead of print.
+
+Trends in underlying causes of death in allogeneic hematopoietic cell transplant 
+recipients over the last decade.
+
+Søborg A(1), Reekie J(1), Sengeløv H(2), Da Cunha-Bang C(2), Lund TK(3), 
+Ekenberg C(1), Lodding IP(1), Moestrup KS(1), Lundgren L(1), Lundgren JD(1)(4), 
+Wareham NE(1)(4).
+
+Author information:
+(1)Centre of Excellence for Health, Immunity, and Infections (CHIP), Copenhagen 
+University Hospital/Rigshospitalet, Copenhagen, Denmark.
+(2)Department of Hematology, Copenhagen University Hospital/Rigshospitalet, 
+Copenhagen, Denmark.
+(3)Department of Cardiology, Section for Lung Transplantation, Copenhagen 
+University Hospital/Rigshospitalet, Copenhagen, Denmark.
+(4)Department of Infectious Diseases, Copenhagen University 
+Hospital/Rigshospitalet, Copenhagen, Denmark.
+
+OBJECTIVES: Improved survival after hematopoietic cell transplantation (HCT) and 
+an increasingly comorbid transplant population may give rise to new trends in 
+the causes of death.
+METHODS: This study includes all adult allogeneic HCT recipients transplanted at 
+Rigshospitalet between January 1, 2010 and December 31, 2019. Underlying causes 
+of death were determined using the Classification of Death Causes after 
+Transplantation (CLASS) method.
+RESULTS: Among 802 HCT recipients, 289 died during the study period. The main 
+causes of death were relapse (N = 133, 46.0%), graft-versus-host disease (GvHD) 
+(N = 64, 22.1%) and infections (N = 35, 12.1%). Multivariable analyses showed 
+that with increasing transplant calendar year, a decreased risk of all-cause 
+mortality (HR 0.92, 95% CI 0.87-0.97) and death from GvHD (HR 0.87, 95% CI 
+0.78-0.97) was identified, but not for other specific causes. Standardized 
+mortality ratios (SMRs) for all-cause mortality decreased from 23.8 (95% CI 
+19.1-28.5) to 18.4 (95% CI 15.0-21.9) for patients transplanted in 2010-2014 
+versus 2015-2019, while SMR for patients who died from GvHD decreased from 8.19 
+(95% CI 5.43-10.94) to 3.65 (95% CI 2.13-5.18).
+CONCLUSIONS: As risk of all-cause mortality and death from GvHD decreases, death 
+from relapse remains the greatest obstacle in further improvement of survival 
+after HCT.
+
+© 2024 The Authors. European Journal of Haematology published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/ejh.14172
+PMID: 38183302
+
+
+37. Acta Obstet Gynecol Scand. 2024 Jan 6. doi: 10.1111/aogs.14737. Online ahead
+of  print.
+
+Methods of induction of labor in women with obesity: A secondary analysis of two 
+multicenter randomized controlled trials.
+
+Croll DMR(1), De Vaan MDT(2)(3), Moes SL(1), Bloemenkamp KWM(1), Ten Eikelder 
+MLG(4), De Heus R(5), Jozwiak M(6), Kooiman J(1), Mol BW(7)(8), Verhoeven 
+CJM(9)(10)(11), De Boer MA(12)(13).
+
+Author information:
+(1)Department of Obstetrics, Division Woman and Baby, Wilhelmina Children's 
+Hospital Birth Center, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(2)Department of Obstetrics and Gynecology, Jeroen Bosch Hospital, 
+'s-Hertogenbosch, the Netherlands.
+(3)Department of Health Care Studies, Rotterdam University of Applied Sciences, 
+Rotterdam, The Netherlands.
+(4)Department of Obstetrics and Gynecology, Radboud University Medical Center, 
+Nijmegen, the Netherlands.
+(5)Department of Obstetrics and Gynecology, St. Antonius Hospital, Utrecht, the 
+Netherlands.
+(6)Outpatient Clinic for Gynecology, Vrouwenkliniek Zuidoost, Amsterdam, the 
+Netherlands.
+(7)Department of Obstetrics and Gynecology, Monash University, Melbourne, 
+Victoria, Australia.
+(8)Aberdeen Centre for Women's Health Research, University of Aberdeen, 
+Aberdeen, UK.
+(9)Division of Midwifery, School of Health Sciences, University of Nottingham, 
+Nottingham, UK.
+(10)Department of Obstetrics and Gynecology, Maxima Medical Center, Veldhoven, 
+the Netherlands.
+(11)Midwifery Science, AVAG, Amsterdam UMC, Location VUmc, Amsterdam, the 
+Netherlands.
+(12)Department of Obstetrics and Gynecology, Amsterdam UMC, Amsterdam, the 
+Netherlands.
+(13)Amsterdam Reproduction and Development Research Institute, Amsterdam, the 
+Netherlands.
+
+INTRODUCTION: Obesity is an increasing public health concern worldwide and can 
+lead to more complications in pregnancy and childbirth. Women with obesity more 
+often require induction of labor for various indications. The aim of this study 
+is to assess which method of induction of labor is safest and most effective in 
+women with obesity.
+MATERIAL AND METHODS: This is a secondary analysis of two randomized controlled 
+trials about induction of labor. Women with a term singleton pregnancy in 
+cephalic presentation, an unfavorable cervix, intact membranes and without a 
+previous cesarean section were randomly allocated to cervical priming with a 
+Foley catheter or vaginal prostaglandin-E2-gel (PROBAAT-I) or a Foley catheter 
+or oral misoprostol (PROBAAT-II). The inclusion and exclusion criteria for the 
+studies were identical. Induction methods were compared in women with obesity 
+(body mass index ≥30.0). Main outcomes were cesarean section and postpartum 
+hemorrhage (blood loss >1000 mL).
+RESULTS: A total of 2664 women, were included in the trials, 517 of whom were 
+obese: 254 women with obesity received a Foley catheter, 176 oral misoprostol 
+and 87 prostaglandin E2 (PGE2). A cesarean section was performed in 29.1% of 
+women allocated to Foley vs 22.2% in the misoprostol and 23.0% in the PGE2 
+groups. Comparisons between groups revealed no statistically significant 
+differences: the relative risk [RR] was 1.31 (95% confidence interval [CI] 
+0.94-1.84) in the Foley vs misoprostol group and 1.27 (95% CI 0.83-1.95) in the 
+Foley vs PGE2 group. The rates of postpartum hemorrhage were comparable (10.6%, 
+11.4% and 6.9%, respectively; P = 0.512). In women with obesity, more often a 
+switch to another method occurred in the Foley group, (20.1% vs 6.3% in 
+misoprostol vs 1.1% in the PGE2 group; P < 0.001). The risk of a failed Foley 
+placement was higher in women with obesity than in women without obesity (8.3% 
+vs 3.2%; adjusted odds ratio 3.12, 95% CI 1.65-5.90).
+CONCLUSIONS: In women with obesity we found a nonsignificant trend towards an 
+increased rate of cesarean sections in the group induced with a Foley catheter 
+compared to oral misoprostol; however, the study lacked power for this subgroup 
+analysis. The finding of a higher risk of failed placement of a Foley catheter 
+in women with obesity can be used in shared decision making.
+
+© 2024 The Authors. Acta Obstetricia et Gynecologica Scandinavica published by 
+John Wiley & Sons Ltd on behalf of Nordic Federation of Societies of Obstetrics 
+and Gynecology (NFOG).
+
+DOI: 10.1111/aogs.14737
+PMID: 38183287
+
+
+38. Environ Sci Pollut Res Int. 2024 Jan 6. doi: 10.1007/s11356-023-31709-9.
+Online  ahead of print.
+
+Knowledge mapping on the sun-induced chlorophyll fluorescence technology 
+research: a scientometric and visualization analysis.
+
+Li M(1)(2)(3), Wang Y(1)(4)(3), Li N(3), Chen B(5), ShurenChou(6).
+
+Author information:
+(1)Gong Qing Institute of Science and Technology, Nanchang, 330044, China.
+(2)Jilin Academy of Agricultural Sciences, Changchun, 130016, China.
+(3)School of Civil and Environmental Engineering, Jilin Jianzhu University, 
+Changchun, China.
+(4)Space Security Center, Space Engineering University, Beijing, 101416, China.
+(5)Key Laboratory of Ecosystem Network Observation and Modeling, Institute of 
+Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 
+Beijing, 100101, China.
+(6)Space Security Center, Space Engineering University, Beijing, 101416, China. 
+chou666@163.com.
+
+The sun-induced chlorophyll fluorescence (SIF) has received increasing attention 
+over the past few years. This scientometric study analyzed the SIF research 
+field, based on publications available in Web of Science Core Collection 
+visualization, and cluster analysis enabled us to map the knowledge domain and 
+intellectual landscape of this field and identify thematic trends, landmark 
+articles, and emerging research themes. In this study, the software VOSviewer 
+and CiteSpace were used to identify the intellectual base and research front 
+using visualization and analysis. Then, we analyzed synthesized networks of 
+co-authorship (author, institution, and country), co-citation (author, document, 
+and journal), and co-occurring keywords. SIF has increased its publication 
+output steadily since 2002. This study provided a visual knowledge map of the 
+major research domains of SIF. Also, explanations and implications of the 
+findings were explored, and the emerging trends were identified. This report 
+provides a thorough overview of the current state and growth trends of SIF 
+research, and it helps researchers and practitioners understand the major areas 
+of attention in this area and provides insights into prospective areas for 
+further study.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s11356-023-31709-9
+PMID: 38182958
+
+
+39. Clin Rheumatol. 2024 Jan 6. doi: 10.1007/s10067-023-06851-x. Online ahead of 
+print.
+
+Global trends in research of melanoma differentiation-associated gene 5: a 
+bibliometric analysis from 2002 to 2022.
+
+Yuan X(1)(2)(3), Shi J(1)(2)(3), Peng Z(1)(2)(3), Peng L(1)(2)(3), Zhou 
+S(1)(2)(3), Wu C(1)(2)(3), Zhao J(1)(2)(3), Xu D(1)(2)(3), Li M(1)(2)(3), Wang 
+Q(4)(5)(6)(7), Zeng X(8)(9)(10)(11).
+
+Author information:
+(1)Department of Rheumatology and Clinical Immunology, Peking Union Medical 
+College Hospital, Peking Union Medical College & Chinese Academy of Medical 
+Sciences, Beijing, China.
+(2)National Clinical Research Center for Dermatologic and Immunologic Diseases, 
+Ministry of Science & Technology, Beijing, China.
+(3)State Key Laboratory of Complex Severe and Rare Diseases, Key Laboratory of 
+Rheumatology & Clinical Immunology, Ministry of Education, Beijing, China.
+(4)Department of Rheumatology and Clinical Immunology, Peking Union Medical 
+College Hospital, Peking Union Medical College & Chinese Academy of Medical 
+Sciences, Beijing, China. wangqian_pumch@126.com.
+(5)National Clinical Research Center for Dermatologic and Immunologic Diseases, 
+Ministry of Science & Technology, Beijing, China. wangqian_pumch@126.com.
+(6)State Key Laboratory of Complex Severe and Rare Diseases, Key Laboratory of 
+Rheumatology & Clinical Immunology, Ministry of Education, Beijing, China. 
+wangqian_pumch@126.com.
+(7)State Key Laboratory of Common Mechanism Research for Major Diseases, 
+Beijing, China. wangqian_pumch@126.com.
+(8)Department of Rheumatology and Clinical Immunology, Peking Union Medical 
+College Hospital, Peking Union Medical College & Chinese Academy of Medical 
+Sciences, Beijing, China. zengxfpumc@163.com.
+(9)National Clinical Research Center for Dermatologic and Immunologic Diseases, 
+Ministry of Science & Technology, Beijing, China. zengxfpumc@163.com.
+(10)State Key Laboratory of Complex Severe and Rare Diseases, Key Laboratory of 
+Rheumatology & Clinical Immunology, Ministry of Education, Beijing, China. 
+zengxfpumc@163.com.
+(11)State Key Laboratory of Common Mechanism Research for Major Diseases, 
+Beijing, China. zengxfpumc@163.com.
+
+BACKGROUND: Melanoma differentiation-associated gene 5 (MDA5), as a cytoplasmic 
+sensor for viral double-stranded RNAs, has received increasing attention in 
+recent years. Although considerable headway has been made on the functional role 
+of MDA5 in antiviral immunity and autoimmune disease, the available literature 
+is insufficient to assess the vast field.
+METHODS: This study performed a bibliometric analysis to investigate current 
+hotspots in the global scientific output of MDA5 over the past two decades. 
+Related publications and recorded information from 2002 to 2022 in the Web of 
+Science Core Collection (WoSCC) database were retrieved. VOSviewer and CiteSpace 
+were used for quantitative evaluation and visualization.
+RESULTS: A total of 2267 original articles and reviews were obtained, and the 
+annual number of publications related to MDA5 was increasing rapidly. China has 
+published the most papers, while the USA was the most influential country with 
+the most citations and the highest H-index. The Chinese Academy of Sciences, the 
+United States Department of Health and Human Services, and the Journal of 
+Virology were the most prolific research affiliation, funding source, and 
+journal, respectively. Fujita T (Kyoto University) was the most productive 
+author with the highest H-index and had close cooperation with Kato H and 
+Yoneyama M. The keywords "RIG-I," "MDA5," "innate immunity," 
+"double-stranded-RNA," and "recognition" had the highest frequency, while 
+"dermatomyositis" as well as "autoantibody" seemed to be the emerging hotspots.
+CONCLUSION: This study comprehensively demonstrated the research frontiers of 
+MDA5 and will provide a useful resource for scholars to conduct future 
+decisions.
+KEY POINTS: We conducted the first in-depth survey of the research frontiers on 
+melanoma differentiation-associated gene 5 (MDA5) over the past two decades via 
+bibliometric analysis. We found that many early breakthroughs have been made in 
+the mechanism of MDA5-mediated antiviral immune responses, and the role of MDA5 
+in autoimmune and autoinflammatory diseases has raised the recent concern. We 
+identified that the virus infection-associated pathogenesis and effective 
+therapeutic strategy of anti-MDA5 antibody-positive dermatomyositis will remain 
+the hotspots in the future.
+
+© 2023. The Author(s), under exclusive licence to International League of 
+Associations for Rheumatology (ILAR).
+
+DOI: 10.1007/s10067-023-06851-x
+PMID: 38182800
+
+
+40. J Chem Phys. 2024 Jan 7;160(1):014301. doi: 10.1063/5.0180860.
+
+Photodissociation of CO2 via the 1Πg state: Wavelength-dependent imaging studies 
+of O(1D2) photoproducts.
+
+Liu Q(1), Gao Q(1), Liu P(1), Yang X(1)(2)(3), Yu S(1).
+
+Author information:
+(1)Hangzhou Institute of Advanced Studies, Zhejiang Normal University, 1108 
+Gengwen Road, Hangzhou 311231, Zhejiang Province, People's Republic of China.
+(2)State Key Laboratory of Molecular Reaction Dynamics, Dalian Institute of 
+Chemical Physics, Chinese Academy of Sciences, 457 Zhongshan Road, Dalian 
+116023, Liaoning Province, People's Republic of China.
+(3)Department of Chemistry, College of Science, Southern University of Science 
+and Technology, 1088 Xueyuan Road, Shenzhen 518055, People's Republic of China.
+
+Photodissociation of CO2 via the 1Πg state is investigated using a time-sliced 
+velocity-mapped ion imaging apparatus combined with a tunable vacuum ultraviolet 
+photolysis source. The main O(1D2) + CO(X1Σ+) channel is directly observed from 
+the measured images of O(1D2) photoproducts at 129.08-134.76 nm. The total 
+kinetic energy release spectra determined based on these images show that the 
+energetic thresholds for the O(1D2) + CO(X1Σ+) photoproducts correspond to the 
+thermochemical thresholds for the photodissociation of CO2(v2 = 0) and CO2(v2 = 
+1). One significant difference among the CO(X1Σ+, v) vibrational distributions 
+for the predominant CO2(v2 = 0) dissociation is that the population of CO(v = 0) 
+becomes favorable at 130.23-133.45 nm compared to the Boltzmann-like component 
+(v > 0) that always exists at 129.08-134.76 nm. The wavelength dependences of 
+the overall β are found to follow the variation trend of the CO(v = 0) abnormal 
+intensity. The vibrational state-specific β values present a roughly decreasing 
+trend with an increase in v, whereas β(v = 0) appears to be significantly larger 
+than β(v = 1) at 130.23-133.45 nm compared to 134.76 and 129.08 nm. The 
+non-statistical CO(v = 0) with larger β values at 130.23-133.45 nm implies that 
+an additional pathway may open through the conical intersection coupling to the 
+dissociative 21A'  state, except for the ever-existing pathway that yields the 
+Boltzmann-like component. In contrast, at 129.08 nm, the restoration of the 
+statistical equilibrium in the CO(X1Σ+, v) vibrational distribution may be 
+caused by the emergence of novel dissociation pathways arising from the 
+participation of the 31A″ state.
+
+© 2024 Author(s). Published under an exclusive license by AIP Publishing.
+
+DOI: 10.1063/5.0180860
+PMID: 38165095
+
+
+41. J Theor Biol. 2024 Jan 7;576:111656. doi: 10.1016/j.jtbi.2023.111656. Epub
+2023  Nov 10.
+
+Simulating tumor volume dynamics in response to radiotherapy: Implications of 
+model selection.
+
+Mohsin N(1), Enderling H(2), Brady-Nicholls R(3), Zahid MU(4).
+
+Author information:
+(1)Dr. Kiran C. Patel College of Allopathic Medicine, Nova Southeastern 
+University, Fort Lauderdale, FL, United States.
+(2)Department of Radiation Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA; Institute for Data Science in Oncology, The University 
+of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(3)Department of Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center 
+& Research Institute, Tampa, FL, United States. Electronic address: 
+renee.brady@moffitt.org.
+(4)Department of Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center 
+& Research Institute, Tampa, FL, United States. Electronic address: 
+mohammad.zahid@moffitt.org.
+
+From the beginning of the usage of radiotherapy (RT) for cancer treatment, 
+mathematical modeling has been integral to understanding radiobiology and for 
+designing treatment approaches and schedules. There has been extensive modeling 
+of response to RT with the inclusion of various degrees of biological 
+complexity. In this study, we compare three models of tumor volume dynamics: (1) 
+exponential growth with RT directly reducing tumor volume, (2) logistic growth 
+with direct tumor volume reduction, and (3) logistic growth with RT reducing the 
+tumor carrying capacity with the objective of understanding the implications of 
+model selection and informing the process of model calibration and 
+parameterization. For all three models, we: examined the rates of change in 
+tumor volume during and RT treatment course; performed parameter sensitivity and 
+identifiability analyses; and investigated the impact of the parameter 
+sensitivity on the tumor volume trajectories. In examining the tumor volume 
+dynamics trends, we coined a new metric - the point of maximum reduction of 
+tumor volume (MRV) - to quantify the magnitude and timing of the expected 
+largest impact of RT during a treatment course. We found distinct timing 
+differences in MRV, dependent on model selection. The parameter identifiability 
+and sensitivity analyses revealed the interdependence of the different model 
+parameters and that it is only possible to independently identify tumor growth 
+and radiation response parameters if the underlying tumor growth rate is 
+sufficiently large. Ultimately, the results of these analyses help us to better 
+understand the implications of model selection while simultaneously generating 
+falsifiable hypotheses about MRV timing that can be tested on longitudinal 
+measurements of tumor volume from pre-clinical or clinical data with high 
+acquisition frequency. Although, our study only compares three particular 
+models, the results demonstrate that caution is necessary in selecting models of 
+response to RT, given the artifacts imposed by each model.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jtbi.2023.111656
+PMID: 37952611 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Heiko Enderling reports financial 
+support was provided by National Cancer Institute.
