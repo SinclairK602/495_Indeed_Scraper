@@ -1,0 +1,160 @@
+1. Br J Nutr. 2024 Jan 14;131(1):163-173. doi: 10.1017/S0007114523001423. Epub
+2023  Jun 30.
+
+Does fruit and vegetable consumption impact mental health? Systematic review and 
+meta-analyses of published controlled intervention studies.
+
+Appleton KM(1), Boxall LR(1), Adenuga-Ajayi O(1), Seyar DF(1).
+
+Author information:
+(1)Department of Psychology, Bournemouth University, Poole, UK.
+
+Associations between fruit and vegetable (FV) consumption and mental health are 
+suggested, largely from observational studies. This systematic review aimed to 
+identify and summarise all published controlled intervention studies 
+investigating the effects of FV consumption on mental health in adults. Four 
+academic databases (Medline, PsycINFO, PubMed, Web of Science) were searched on 
+16 September 2022, over all years, for studies that used an intervention design; 
+included FV consumption; included an appropriate non-FV-consumption control; 
+used a validated measure of mental health and were conducted in healthy adults 
+or adults with solely a depressive or anxiety-related condition. Study details 
+were tabulated and combined using meta-analyses. Risk of bias was assessed using 
+the domains of the Cochrane Collaboration. Six studies, enrolling 691 healthy 
+adults and reporting on one or more mental health outcomes, were found. 
+Meta-analyses found small and imprecise effects of FV consumption for: 
+psychological well-being (4 studies, 289 participants) standardised mean 
+difference (SMD) = 0·07 (95 % CI -0·17, 0·30), P = 0·58, I2 = 0 %; depressive 
+symptomology (3 studies, 271 participants) SMD = -0·15 (95 % CI -0·40, 0·10), P 
+= 0·23, I2 = 47 % and anxiety-related symptomology (4 studies, 298 participants) 
+SMD = -0·15 (95 % CI -0·39, 0·08), P = 0·20, I2 = 71 %. Some benefit for 
+psychological well-being was found in change-from-baseline data: SMD = 0·28 (95 
+% CI 0·05, 0·52), P = 0·02, I2 = 0 %. Risk of bias was high in many studies. 
+Limitations include the consideration only of published studies and stem from 
+the studies found. Given the few, limited studies available and the small size 
+of effects, stronger evidence is needed before recommending FV consumption for 
+mental health.
+
+DOI: 10.1017/S0007114523001423
+PMID: 37387229 [Indexed for MEDLINE]
+
+
+2. Br J Nutr. 2024 Jan 14;131(1):63-72. doi: 10.1017/S0007114523001484. Epub 2023
+ Jul 10.
+
+Association between consumption of sweeteners and endometrial cancer risk: a 
+systematic review and meta-analysis of observational studies.
+
+Li H(#)(1), Zhang Y(#)(2), He Y(3), Huang J(2), Yao J(2), Zhuang X(4).
+
+Author information:
+(1)Gynecology, The Affiliated Lihuili Hospital, Ningbo University, Ningbo, 
+Zhejiang, People's Republic of China.
+(2)School of Public Health, Zhejiang Chinese Medical University, Hangzhou, 
+Zhejiang, People's Republic of China.
+(3)The Second Clinical Medical College, Zhejiang Chinese Medical University, 
+Hangzhou, Zhejiang, People's Republic of China.
+(4)Gynecology Department of Mingzhou Hospital, Ningbo, 315000Zhejiang, People's 
+Republic of China.
+(#)Contributed equally
+
+The purpose of this study is to further investigate the relationship between 
+sweetener exposure and the risk of endometrial cancer (EC). Up until December 
+2022, a literature search in an electronic database was carried out utilizing 
+PubMed, Web of Science, Ovid, and Scopus. The odds ratio (OR) and 95 % 
+confidence interval (CI) were used to evaluate the results. Sweeteners were 
+divided into nutritional sweeteners (generally refers to sugar, such as sucrose 
+and glucose) and non-nutritional sweeteners (generally refers to artificial 
+sweeteners, such saccharin and aspartame). Ten cohort studies and two 
+case-control studies were eventually included. The study found that in 12 
+studies, compared with the non-exposed group, the incidence rate of EC in the 
+sweetener exposed group was higher (OR = 1·15, 95 % CI = [1·07, 1·24]). Subgroup 
+analysis showed that in 11 studies, the incidence rate of EC in the nutritional 
+sweetener exposed group was higher than that in the non-exposed group (OR = 
+1·25, 95 % CI = [1·14, 1·38]). In 4 studies, there was no difference in the 
+incidence rate of EC between individuals exposed to non-nutritional sweeteners 
+and those who were not exposed to non-nutritional sweeteners (OR = 0·90, 95 % CI 
+= [0·81, 1·01]). This study reported that the consumption of nutritional 
+sweeteners may increase the risk of EC, whereas there was no significant 
+relationship between the exposure of non-nutritional sweeteners and the 
+incidence of EC. Based on the results of this study, it is recommended to reduce 
+the intake of nutritional sweeteners, but it is uncertain whether use of 
+on-nutritional sweeteners instead of nutritional sweetener.
+
+DOI: 10.1017/S0007114523001484
+PMID: 37424288 [Indexed for MEDLINE]
+
+
+3. Br J Nutr. 2024 Jan 14;131(1):54-62. doi: 10.1017/S0007114523001678. Epub 2023
+ Jul 31.
+
+Association of dietary inflammatory index with risk of gestational diabetes 
+mellitus and preeclampsia: a systematic review and meta-analysis.
+
+Hong L(#)(1), Zhu L(#)(2), Zhang J(1), Fu Y(1), Qi X(1), Zhao M(1).
+
+Author information:
+(1)School of Nursing, Anhui Medical University, Hefei, People's Republic of 
+China.
+(2)Department of Nursing, The First Affiliated Hospital of USTC, Division of 
+Life Sciences and Medicine, University of Science and Technology of China, 
+Hefei, People's Republic of China.
+(#)Contributed equally
+
+Findings from observational studies have suggested a possible association 
+between dietary inflammatory index (DII) and risk of gestational diabetes 
+mellitus (GDM) and preeclampsia (PE). However, the results of these studies were 
+inconclusive. A systematic review and meta-analysis was carried out to 
+illuminate this association. Systematic literature search was conducted in 
+PubMed, Web of Science, Cochrane Library, EMBASE, Scopus and other databases 
+from inception until January 2023. The qualities of included studies were 
+assessed using the Newcastle-Ottawa scale. Nine studies (seven cohort, two 
+case-control) were included in the meta-analysis, including 11 423 participants 
+from five different countries. The meta-analysis indicated that a 1-unit 
+increase in the DII score, representing pro-inflammatory diet, was associated 
+with 13 % higher risk of GDM (OR = 1·13; 95 % CI 1·02, 1·25, I2 = 68·4 %, P = 
+0·004) and 24 % higher risk of PE (OR = 1·24; 95 % CI 1·14, 1·35, I2 = 52·0 %, P 
+= 0·125). Subgroup analysis found that this association was evident among 
+studies with Chinese populations (OR = 1·16; 95 % CI 1·06, 1·28) and studies 
+with mid pregnancy (OR = 1·20; 95 % CI 1·07, 1·34). The findings indicate that 
+pro-inflammatory diet can increase the risk of GDM and PE. Considering some 
+limitations in this study, more studies are needed to verify this association.
+
+DOI: 10.1017/S0007114523001678
+PMID: 37519248 [Indexed for MEDLINE]
+
+
+4. Biomol Biomed. 2024 Jan 14. doi: 10.17305/bb.2023.10035. Online ahead of
+print.
+
+Prediabetes and the incidence of Parkinson's disease: A meta-analysis.
+
+Jin X(1), Lu Y(1), Gong Z(1), Huang W(1), Wang Z(1).
+
+Author information:
+(1)Department of Neurology, Tianjin First Central Hospital, School of Medicine, 
+Nankai University, Tianjin, China.
+
+Diabetes has been associated with an elevated risk of Parkinson's disease (PD), 
+yet the relationship between prediabetes (PreD) and the incidence of PD in the 
+adult population remains unclear. Therefore, a systematic review and 
+meta-analysis was conducted to evaluate if PreD is also associated with a higher 
+risk of PD. We conducted comprehensive searches of the PubMed, Embase, and Web 
+of Science databases to identify relevant observational studies with 
+longitudinal follow-up. The random-effects model was employed to synthesize the 
+data, mitigating the potential impact of study heterogeneity on the outcomes. 
+Our analysis incorporated seven datasets from five cohort studies, encompassing 
+18,170,592 adult participants without a PD diagnosis at baseline. Among them, 
+2,432,148 (13.3%) had PreD. During the follow-up, a total of 46,682 patients 
+were diagnosed with PD. The pooled results indicated that PreD was associated 
+with an increased incidence of PD (risk ratio [RR] 1.09, 95% confidence interval 
+[CI] 1.02 - 1.16; P = 0.02; I2 = 52%), after adjusting for potential confounding 
+factors such as age, sex, body mass index (BMI), and smoking. Subsequent pilot 
+subgroup analyses suggested that the association between PreD and PD might not 
+be significantly influenced by the country of the study, its design, age or sex 
+of the participants, definition of PreD, or the quality scores of the study (P 
+for subgroup difference all > 0.05). In conclusion, adult population with PreD 
+may have a mildly increased risk of developing PD compared to those with 
+normoglycemia.
+
+DOI: 10.17305/bb.2023.10035
+PMID: 38219272
