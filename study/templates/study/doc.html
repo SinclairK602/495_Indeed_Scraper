@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+Documentation
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static "study/doc.css" %}" />
+{% endblock %}
+
+{% block content %}
+<section id="doc">
+    <h1>Sup Faggot</h1>
+        <p>{% lorem 10 b random %}</p>
+</section>
+{% endblock %}

@@ -1,0 +1,88 @@
+body {
+    background-color: #e7e7e7;
+  }
+  
+  #main-navigation {
+    background-color: #112e51;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  #summary {
+    margin: 8rem auto 3rem auto;
+    padding: 2rem;
+    width: 90%;
+    max-width: 90rem;
+    border-radius: 16px;
+    background-color: #016db6;
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    height: 15rem;
+  }
+  
+  #summary h2 {
+    color: white;
+    font-size: 1.5rem;
+    overflow: hidden; 
+    word-wrap: break-word;            
+    max-width: 100%;
+    max-block-size: 101%;          
+    line-height: 1.2em;
+    margin: 0;
+    padding: 4rem;
+  }
+  
+  #summary article {
+    position: absolute;
+    top: 0.5rem;
+    right: 3rem;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    text-align: right;
+    color: white;
+  }
+  
+  #summary address {
+    font-weight: bold;
+  }
+  
+  #summary time {
+    font-weight: bold;
+  } 
+  
+  main {
+    width: 90%;
+    max-width: 90rem;
+    margin: 3rem auto;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  a.pmid-link {
+    color: black;
+    text-decoration: none;
+}
+
+a.pmid-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+.label {
+  background-color: white;
+  color: black;
+  padding: 0.1rem 0.1rem;
+  border-radius: 8px;
+}
+
+.label-RCT {
+  background-color: #fff5ba;
+}
+
+.label-Meta-Analysis {
+  background-color: #fda8a8;
+}
+
+.label-Unknown {
+  background-color: #e7e7e7;
+}

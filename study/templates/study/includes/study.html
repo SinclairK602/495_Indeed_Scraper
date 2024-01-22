@@ -1,0 +1,14 @@
+{% load static %}
+
+<li>
+    <article class="study">
+        <a href="{% url "study-detail-page" study.pmid %}">
+            <div class="study__content">
+                <h3>{{ study.title }}</h3>
+                <p class="label label-{{ study.label }}">{{ study.label }}</p>
+                <p>{{ study.date }}</p>
+                <p>PubMed ID: {{ study.pmid }}</p>
+            </div>
+        </a>
+    </article>
+</li>

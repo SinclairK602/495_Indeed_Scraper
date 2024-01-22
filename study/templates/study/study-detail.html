@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+{{ study.title }}
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static "study/study-detail.css" %}" />
+{% endblock %}
+
+{% block content %}
+    <section id="summary">
+        <h2>{{ study.title }}</h2>
+        
+        <article>
+            <address>
+                The full study can be found at: 
+                <a href="https://pubmed.ncbi.nlm.nih.gov/{{ study.pmid }}/" class="pmid-link">{{ study.pmid }}</a>
+            </address>
+            <div>
+                Date of study: <time>{{ study.date }}</time>
+            </div>
+            <div>
+                <span class="label label-{{ study.label }}">{{ study.label }}</span>
+            </div>
+        </article>
+    </section>
+    <main>
+        <h3>BACKGROUND:</h3>{{ study.background|linebreaks }}
+        <h3>OBJECTIVE:</h3>{{ study.objective|linebreaks }}
+        <h3>METHOD:</h3>{{ study.method|linebreaks }}
+        <h3>RESULTS:</h3>{{ study.results|linebreaks }}
+        <h3>CONCLUSIONS:</h3>{{ study.conclusions|linebreaks }}
+        <hr>
+        <h3>ORIGINAL ABSTRACT:</h3>{{ study.abstract|linebreaks }}
+    </main>
+{% endblock %}

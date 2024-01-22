@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+All Studies
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static "study/study.css" %}" />
+<link rel="stylesheet" href="{% static "study/all-studies.css" %}" />
+{% endblock %}
+
+{% block content %}
+<section id="all-studies">
+    <h2>All Studies</h2>
+    <ul>
+        {% for study in all_studies %}
+            {% include "study/includes/study.html" %}
+        {% endfor %}
+    </ul>
+</section>
+{% endblock %}
