@@ -6,8 +6,8 @@ today=$(date +%Y/%m/%d)
 
 # Fetch meta-analysis abstracts within the fixed date range
 esearch -db pubmed -query "meta-analysis[Publication Type] AND ($yesterday_date[PDAT] : $today[PDAT])" | \
-efetch -format abstract > meta.txt
+efetch -format abstract > meta_dataset.txt
 
 # Fetch randomized controlled trial abstracts within the fixed date range
 esearch -db pubmed -query "\"randomized controlled trial\"[Publication Type] AND ($yesterday_date[PDAT] : $today[PDAT])" | \
-efetch -format abstract > rct.txt
+efetch -format abstract > rct_dataset.txt

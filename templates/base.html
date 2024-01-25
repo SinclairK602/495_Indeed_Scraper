@@ -16,6 +16,10 @@
             <a class="navbar-button" href="{% url "studies-page" %}">All Studies</a>
             <a class="navbar-button" href="{% url "doc" %}">Documentation</a>
             <a class="navbar-button" href="https://github.com/SinclairK602/495_NLP">GitHub Repo</a>
+            <form action="{% url "search-study" %}" method="get">
+                <input type="text" name="pmid" placeholder="Enter PMID">
+                <button type="submit">Search</button>
+            </form>
         </nav>
     </header>
     {% block content %}
