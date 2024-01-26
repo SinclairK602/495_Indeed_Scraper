@@ -1,7 +1,8 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import Abstract
 import subprocess
-from django.http import JsonResponse, HttpResponse
+from django.http import Http404
+import os
 
 # Create your views here.
 
@@ -13,31 +14,28 @@ def starting_page(request):
 
 def search_study(request):
     pmid = request.GET.get("pmid")
-    study, created = Abstract.objects.get_or_create(pmid=pmid)
-    if created:
+    if not pmid or not pmid.isdigit():
+        raise Http404("No PMID provided.")
+    study = Abstract.objects.filter(pmid=pmid).first()
+    if study:
+        return redirect("study-detail-page", slug=study.pmid)
+    else:
         try:
             print("Running shell script to fetch PMID...")
             subprocess.run(["./request.sh", pmid], timeout=5)
-            print("Running Python script to process abstracts...")
+            file_path = "reuqest.txt"
+            if os.path.exists(file_path) and os.path.getsize(file_path) == 0:
+                raise Http404("PMID Does not exist.")
+            print("Running Python script to process abstract...")
             subprocess.run(["python3", "process_abstracts.py"])
+            study = Abstract.objects.filter(pmid=pmid).first()
         except subprocess.TimeoutExpired:
             print("Script timed out.")
-            return HttpResponse("PMID not found and fetching process failed.")
+            raise Http404("PMID not found and fetching process failed.")
         except Exception as e:
             print(f"An error occurred: {e}")
-            return HttpResponse("An error occurred while processing the PMID.")
+            raise Http404("An error occurred while processing the PMID request.")
     return redirect("study-detail-page", slug=study.pmid)
-
-
-
-def check_pmid_status(request):
-    pmid = request.GET.get("pmid")
-    try:
-        Abstract.objects.get(pmid=pmid)
-        return JsonResponse({"status": "found"})
-    except Abstract.DoesNotExist:
-        # You can also add a check here to distinguish between 'not found' and 'fetching failed'
-        return JsonResponse({"status": "not found"})
 
 
 def studies(request):

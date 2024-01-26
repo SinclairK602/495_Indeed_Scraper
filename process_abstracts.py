@@ -14,7 +14,22 @@ from study.models import Abstract
 def django_functionality(abstract_dict):
     existing_abstract = Abstract.objects.filter(pmid=abstract_dict.get("pmid")).first()
     if existing_abstract is None:
-        abstract = Abstract(**abstract_dict)
+        abstract = Abstract()
+        abstract.pmid = abstract_dict.get("pmid")
+        abstract.date = abstract_dict.get("date")
+        abstract.doi = abstract_dict.get("doi")
+        abstract.label = abstract_dict.get(
+            "label", "Unknown"
+        )  # Default to 'Unknown' if not provided
+        abstract.title = abstract_dict.get("title")
+        abstract.authors = abstract_dict.get("authors")
+        abstract.author_info = abstract_dict.get("author_info")
+        abstract.abstract = abstract_dict.get("abstract")
+        abstract.background = abstract_dict.get("background")
+        abstract.objective = abstract_dict.get("objective")
+        abstract.method = abstract_dict.get("method")
+        abstract.results = abstract_dict.get("results")
+        abstract.conclusions = abstract_dict.get("conclusions")
         abstract.save()
     else:
         pass
@@ -60,11 +75,9 @@ def parse_dataset(file_paths):
 
             for study in studies:
                 # Extracting various components from the study
-                doi = (
-                    re.search(r"doi: ([^\s]+)", study).group(1)
-                    if re.search(r"doi: ([^\s]+)", study)
-                    else None
-                )
+                doi_pattern = r"doi:\s*(?:\n)?([^\s]+)"
+                doi = re.search(doi_pattern, study, re.DOTALL)
+                doi = doi.group(1) if doi else None
                 pmid = (
                     re.search(r"PMID: ([^\s]+)", study).group(1)
                     if re.search(r"PMID: ([^\s]+)", study)
@@ -246,18 +259,6 @@ def main():
 
     for abstracts in processed_abstracts:
         django_functionality(abstracts)
-        # print("Date:", abstracts["date"])
-        # print("DOI:", abstracts["doi"])
-        # print("PMID:", abstracts["pmid"])
-        # print("Label:", abstracts["label"])
-        # print("Title:", abstracts["title"])
-        # print("Authors:", abstracts["authors"])
-        # print("Author Info:", abstracts["author_info"])
-        # print("Background:", abstracts["background"])
-        # print("Objective:", abstracts["objective"])
-        # print("Method:", abstracts["method"])
-        # print("Results:", abstracts["results"])
-        # print("Conclusions:", abstracts["conclusions"])
 
 
 if __name__ == "__main__":
