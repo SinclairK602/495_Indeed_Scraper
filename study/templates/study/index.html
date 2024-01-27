@@ -17,7 +17,7 @@ Abstract Classifier
             <img src="{% static "study/images/logo.png" %}" alt="Abstract Classifier Logo" />
             <h2>Welcome to the Abstract Classifier</h2>
         </header>
-        <p>Testing some more tests which is required to test these tests and, in turn, test the other tests.</p>
+        <p>The objective of this site is to take PubMed abstracts and format them into a digestible format.</p>
     </section>
 
     <section id="latest-studies">
@@ -32,11 +32,9 @@ Abstract Classifier
     <section id="about">
         <h2>About</h2>
         <p>
-            Testing some more tests which is required to test these tests and, in turn, test the other tests.
+            This web application utilizes the Entrez Direct API which is associated with PubMed to fetch Abstracts. Each day, the application will fetch the latest RCT and Meta-analysis studies and process them through a Natural language processing algorithm (NLP) to classify each sentence in the abstract to a respective category. Abstracts which do not exist in the database can be fetched using the search bar. 
         </p>
-        <p>
-            Testing some more tests which is required to test these tests and, in turn, test the other tests.
-        </p>
+        <p><b>Please note:</b> Abstracts that are not in the database will take some time to be fetched and processed. Please be patient.</p>
     </section>
 
 {% endblock %}

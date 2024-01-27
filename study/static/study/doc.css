@@ -12,3 +12,7 @@ body {
     width: 90%;
     max-width: 60rem;
   }
+  
+  #doc h1 {
+    text-align: center;
+  }
