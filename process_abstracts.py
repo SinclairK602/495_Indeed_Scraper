@@ -5,15 +5,22 @@ from sklearn.preprocessing import LabelEncoder
 import os
 import django
 
+# Setting up Django
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "abstract_site.settings")
 django.setup()
 
+# Importing Django database model
 from study.models import Abstract
 
 
+# Function to save abstract values to database
 def django_functionality(abstract_dict):
-    existing_abstract = Abstract.objects.filter(pmid=abstract_dict.get("pmid")).first()
-    if existing_abstract is None:
+    existing_abstract = Abstract.objects.filter(
+        pmid=abstract_dict.get("pmid")
+    ).first()  # Check if abstract already exists in database
+    if (
+        existing_abstract is None
+    ):  # If abstract does not exist, create new abstract object and save values
         abstract = Abstract()
         abstract.pmid = abstract_dict.get("pmid")
         abstract.date = abstract_dict.get("date")
@@ -35,18 +42,21 @@ def django_functionality(abstract_dict):
         pass
 
 
+# Function to load TensorFlow model
 def load_model(model_filename):
     script_dir = os.path.dirname(os.path.realpath(__file__))
     model_path = os.path.join(script_dir, model_filename)
     return tf.keras.models.load_model(model_path)
 
 
+# Function to split sentences into characters
 def split_chars(text):
     return " ".join(list(text))
 
 
+# Function to remove pre-existing classification labels from abstracts
 def remove_classifications(abstract):
-    keywords = [
+    keywords = [  # List of keywords to remove which may need to be updated as necessary
         "PURPOSE",
         "METHODS",
         "RESULTS",
@@ -60,21 +70,24 @@ def remove_classifications(abstract):
     return re.sub(pattern, "", abstract, flags=re.IGNORECASE)
 
 
+# Function to parse dataset
 def parse_dataset(file_paths):
     all_abstracts = []
     for file_path in file_paths:
         script_dir = os.path.dirname(os.path.realpath(__file__))
         file_path = os.path.join(script_dir, file_path)
+        # Skip empty files
         if os.path.getsize(file_path) == 0:
             continue
         else:
             with open(file_path, "r", encoding="utf-8") as file:
                 text = file.read()
 
+            # Split studies into individual studies
             studies = text.strip().split("\n\n\n")
 
             for study in studies:
-                # Extracting various components from the study
+                # Extracting various components from the study using regex
                 doi_pattern = r"doi:\s*(?:\n)?([^\s]+)"
                 doi = re.search(doi_pattern, study, re.DOTALL)
                 doi = doi.group(1) if doi else None
@@ -128,10 +141,12 @@ def parse_dataset(file_paths):
                     )
                     else None
                 )
+
+                # Remove pre-existing classification labels from abstracts
                 abstract = remove_classifications(abstract)
 
+                # Label each study using keywords in the title
                 label = "Unknown"
-
                 if "meta-analys" in title.lower():
                     label = "Meta-Analysis"
                 elif (
@@ -142,6 +157,7 @@ def parse_dataset(file_paths):
                 ):
                     label = "RCT"
 
+                # Create dictionary for each study
                 study_dict = {
                     "date": date,
                     "doi": doi,
@@ -162,6 +178,7 @@ def parse_dataset(file_paths):
     return all_abstracts
 
 
+# Function to postprocess abstracts by joining sentences in each category
 def postprocess_abstracts(abstracts):
     for abstract in abstracts:
         for key in ["background", "objective", "method", "results", "conclusions"]:
@@ -170,13 +187,9 @@ def postprocess_abstracts(abstracts):
     return abstracts
 
 
-def classify_sentence(sentence, model, label_encoder):
-    prediction = model.predict([sentence])
-    category = label_encoder.classes_[tf.argmax(prediction)]
-    return category.lower()
-
-
+# Function to classify sentences in abstracts
 def categorize_sentences(abstracts, model, label_encoder, nlp):
+    # Iterate through each abstract and split into sentences
     for abstract_dict in abstracts:
         doc = nlp(abstract_dict["abstract"])
         abstract_lines = [str(sent) for sent in doc.sents]
@@ -232,6 +245,8 @@ def main():
     # Load model and label encoder
     model = load_model("token_char_pos_model")
     label_encoder = LabelEncoder()
+
+    # Establish order of classes
     label_encoder.classes_ = [
         "background",
         "objective",
@@ -244,7 +259,7 @@ def main():
     nlp = English()
     nlp.add_pipe("sentencizer")
 
-    # Load and parse dataset
+    # Load files and parse dataset
     files = ["rct_dataset.txt", "meta_dataset.txt", "request.txt"]
     abstracts = parse_dataset(files)
 
@@ -257,6 +272,7 @@ def main():
     processed_abstracts = categorize_sentences(abstracts, model, label_encoder, nlp)
     processed_abstracts = postprocess_abstracts(processed_abstracts)
 
+    # Save abstracts to database
     for abstracts in processed_abstracts:
         django_functionality(abstracts)
 

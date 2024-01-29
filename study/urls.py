@@ -2,6 +2,7 @@ from django.urls import path
 
 from . import views
 
+# URL paths for the study app
 urlpatterns = [
     path("", views.starting_page, name="starting-page"),
     path("studies", views.studies, name="studies-page"),

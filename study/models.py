@@ -1,8 +1,7 @@
 from django.db import models
 
-# Create your models here.
 
-
+# Label choices for the abstracts
 class Abstract(models.Model):
     LABEL_CHOICES = [
         ("RCT", "RCT"),
@@ -10,6 +9,7 @@ class Abstract(models.Model):
         ("Unknown", "Unknown"),
     ]
 
+    # Fields for the abstracts
     date = models.CharField(max_length=15)
     doi = models.CharField(max_length=50)
     pmid = models.SlugField(unique=True, db_index=True, max_length=8)
@@ -24,5 +24,6 @@ class Abstract(models.Model):
     results = models.TextField(blank=True, null=True)
     conclusions = models.TextField(blank=True, null=True)
 
+    # String representation of the abstracts
     def __str__(self):
         return self.pmid
