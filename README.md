@@ -94,3 +94,5 @@ The backend consisted of Django which is a high-level Python web framework. Rath
 * Jan 28: Debugged scheduled tasks and tweak any final settings
 * Jan 29: Went through project files and cleaned up code while commenting for readability
 * Jan 30: Continued extensive documentation
+* Jan 31: Continued extensive documentation and uploaded documentation to website
+* Feb 1: Reviewed documentation and submitted project
