@@ -4,6 +4,7 @@ from spacy.lang.en import English
 from sklearn.preprocessing import LabelEncoder
 import os
 import django
+from datetime import datetime
 
 # Setting up Django
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "abstract_site.settings")
@@ -96,11 +97,7 @@ def parse_dataset(file_paths):
                     if re.search(r"PMID: ([^\s]+)", study)
                     else None
                 )
-                date = (
-                    re.search(r"(\d{4} \w{3} \d{1,2})", study).group(1)
-                    if re.search(r"(\d{4} \w{3} \d{1,2})", study)
-                    else None
-                )
+                date = datetime.now().strftime("%Y %b %d")
                 title = (
                     re.search(r"\n\n(.*?)\n\n", study, re.DOTALL)
                     .group(1)
@@ -142,6 +139,9 @@ def parse_dataset(file_paths):
                     else None
                 )
 
+                if abstract is None:
+                    continue
+
                 # Remove pre-existing classification labels from abstracts
                 abstract = remove_classifications(abstract)
 
@@ -150,10 +150,12 @@ def parse_dataset(file_paths):
                 if "meta-analys" in title.lower():
                     label = "Meta-Analysis"
                 elif (
-                    "randomized controlled trial" in title.lower()
-                    or "randomised controlled trial" in title.lower()
-                    or "randomised clinical trial" in title.lower()
+                    "randomized controlled" in title.lower()
+                    or "randomised controlled" in title.lower()
+                    or "randomised clinical" in title.lower()
+                    or "randomized clinical" in title.lower()
                     or "randomised trial" in title.lower()
+                    or "randomized, controlled" in title.lower()
                 ):
                     label = "RCT"
 
